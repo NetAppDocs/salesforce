@@ -18,9 +18,9 @@ entries:
   - title: Canceling a job
     url: /task_canceling_job.html
   - title: Viewing data
-    url: /viewing_data.html
+    url: /viewing_data_html
   - title: Known problems and limitations
-    url: /task_kpls.html
+    url: /task_kpls_html
   - title: Providing feedback
     url: /task_providing_feedback.html
   - title: Where to get help and find more information

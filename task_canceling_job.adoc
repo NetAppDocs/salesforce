@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_canceling.job.html
+permalink: task_canceling_job.html
 keywords: netapp, saas backup, salesforce, canceling, jobs, backup, restore
 summary: You can cancel an immediate backup or restore.  You cannot cancel a scheduled backup.
 ---

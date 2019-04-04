@@ -24,10 +24,10 @@ toc::[]
 .Steps
 
 . From the left-pane navigation, click *Services*
-  image:service.jpg[]
+  image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
-  image:production_instance.jpg[]
-  image:sandbox_instance.jpg[]
+  image:production_instances.jpg[]
+  image:sandbox_instances.jpg[]
 . Click the number of *Protected Instances*.
 . Click the name of he organization.
   image:organization.jpg[]
@@ -53,10 +53,10 @@ toc::[]
 .Steps
 
 . From the left-pane navigation, click *Services*
-  image:service.jpg[]
+  image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
-  image:production_instance.jpg[]
-  image:sandbox_instance.jpg[]
+  image:production_instances.jpg[]
+  image:sandbox_instances.jpg[]
 . Click the number of *Protected Instances*.
 . Click the name of he organization.
   image:organization.jpg[]

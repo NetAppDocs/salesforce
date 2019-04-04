@@ -22,11 +22,11 @@ toc::[]
 .Steps
 
 . From the left-pane navigation, click *Services*
-  image:service.jpg[]
+  image:services.jpg[]
 . If you want to add a Production Instance, click *Production Instances*.
-  image:production_instance.jpg[]
+  image:production_instances.jpg[]
   If you want to add a Sandbox Instance, click *Sandbox Instances*.
-  image:sandbox_instance.jpg[]
+  image:sandbox_instances.jpg[]
 . In the top right corner, click the blue image:bluecircle_icon.jpg[] to add a new instance.
 .	Under *Add an Organization*, select *Production* to add a Production Instance, or select *Sandbox* to add a Sandbox Instance.
 .	Click *Submit*.

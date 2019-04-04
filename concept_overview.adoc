@@ -15,5 +15,5 @@ summary: NetApp SaaS Backup (formerly NetApp Cloud Control) for Office 365 is a 
 
 NetApp SaaS Backup (formerly "NetApp Cloud Control") for Office 365 is a secure, cloud-native service that backs up your Salesforce data to Amazon S3 storage.  SaaS Backup helps guard your data from threats or accidental deletion.
 
-image:overview.gif[Graphical overview of SaaS Backup for Salesforce.]
+image:Overview.gif[Graphical overview of SaaS Backup for Salesforce.]
 *NOTE*: When you upgrade from private preview of SaaS Backup for Salesforce to general product availability, your private preview data is not preserved.
