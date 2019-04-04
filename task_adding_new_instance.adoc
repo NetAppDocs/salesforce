@@ -1,0 +1,34 @@
+---
+sidebar: sidebar
+permalink: task_adding_new_instance.html
+keywords: netapp, saas backup, salesforce, adding, production, sandbox, instance
+summary: After configuring SaaS Backup for Salesforce, you add a new production or sandbox instance.
+---
+
+= Adding a new Production or Sandbox Instance
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+After configuring SaaS Backup for Salesforce, you add a new production or sandbox instance.
+
+toc::[]
+
+.Steps
+
+. From the left-pane navigation, click *Services*
+  image:service.jpg[]
+. If you want to add a Production Instance, click *Production Instances*.
+  image:production_instance.jpg[]
+  If you want to add a Sandbox Instance, click *Sandbox Instances*.
+  image:sandbox_instance.jpg[]
+. In the top right corner, click the blue image:bluecircle_icon.jpg[] to add a new instance.
+.	Under *Add an Organization*, select *Production* to add a Production Instance, or select *Sandbox* to add a Sandbox Instance.
+.	Click *Submit*.
+.	Enter your system administrative credentials to add the instance.
+  A production organization is automatically added to the tier 1 backup policy and an immediate backup is scheduled.

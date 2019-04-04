@@ -1,0 +1,33 @@
+---
+sidebar: sidebar
+permalink: task_configuring_salesforce_service.html
+keywords: netapp, saas backup, salesforce, configuring, service
+summary: After signing up for SaaS Backup for Salesforce, you must configure the Salesforce service.
+---
+
+= Configuring the Salesforce service
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+After signing up for SaaS Backup for Salesforce, you must configure the Salesforce service.
+
+toc::[]
+
+.Steps
+
+. From the left-pane navigation, click *Services*
+  image:service.jpg[]
+. Click the image:bluecircle_icon[] to add the service.
+. Select *Salesforce*.
+  image:salesforce_icon.jpg[]
+. Select the subscription type.
+.	Enter the activation code.
+.	Select your backup destination.
+.	Click *Next*.
+.	Click *Save*.

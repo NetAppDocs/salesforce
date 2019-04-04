@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: index.html
+summary: Welcome to the documentation portal for NetApp SaaS Backup for Salesforce.
+---
+
+= NetApp SaaS Backup for Salesforce documentation
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+:keywords: ontap cloud, amazon web services, saas backup, salesforce, saas restore, documentation, help
+
+NetApp SaaS Backup is a secure, cloud-native service that backs up your Salesforce data to Amazon S3 storage.  SaaS Backup helps guard your data from threats or accidental deletion.
+
+*Documentation last updated: April 4, 2019*
+
+== Getting Started
+* link:task_getting_started.html[Getting started]
+* link:task_configuring_salesforce_service.html[Configuring Salesforce service]
+* link:task_adding_new_instance.html[Adding a production sandbox instance]
+
+== Managing backups and restores data
+* link:task_managing_backups.html[Backing up data]
+* link:task_managing_restores.html[Restoring data]
+* link:task_moving_org_to_different_tier.html[Moving data to a different backup tier]
+* link:task_viewing_data.html[Viewing data]
+
+== Provide feedback, get help, or find more information
+* link:task_providing_feedback.html[Providing feedback]
+* link:concept_get_help_find_info.html[Where to get help and find more information]

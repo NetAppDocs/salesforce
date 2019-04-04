@@ -1,0 +1,43 @@
+---
+sidebar: sidebar
+permalink: concept_kpls.html
+keywords: netapp, saas backup, salesforce, known, problems, limitations, release, notes
+summary: You should be aware of certain SaaS Backup known problems and limitations.
+---
+
+= Known problems and limitations
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The following is a list of SaaS Backup for Salesforce known problems and limitations.
+
+toc::[]
+
+== Records missing in backup of some objects (Defect #1169)
+After a full backup or incremental backup of an organization, there might be a small discrepancy in the count for the total number of discovered records versus the count for the total number of downloaded records.  This occurs when specific fields are added to the query and consequently cause the Salesforce API not to return all records.
+
+== Restore of records backed up prior to schema change is not supported (Defect #1170)
+SaaS Backup does not support restore of records that were backed up prior to a schema change.  If this is attempted, the restore fails, and the following message is displayed:  *Restore failed due to schema changes*.
+
+== Objects excluded from backups
+SaaS backup for Salesforce does not back up the following objects:
+
+* Objects which cannot be queried using Salesforce APIs
+* Objects which do not support generic queries
+* History objects used by Salesforce to track the history of field level changes to records in objects.
+
+== Features not supported in private preview
+The following features are not supported in the private preview version of SaaS Backup for Salesforce.
+
+* Salesforce metadata
+* Salesforce chatter
+* The following relationship types
+** N:1 to N:N relationships
+** Self-relationships
+** Cyclic relationships
