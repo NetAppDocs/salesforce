@@ -15,12 +15,14 @@ entries:
     url: /task_managing_backups.html
   - title: Restoring data
     url: /task_managing_restores.html
+  - title: Reauthenticating credentials
+    url: /task_reauthenticating.html
   - title: Canceling a job
     url: /task_canceling_job.html
   - title: Viewing data
-    url: /viewing_data_html
+    url: /task_viewing_data.html
   - title: Known problems and limitations
-    url: /task_kpls_html
+    url: /concept_kpls.html
   - title: Providing feedback
     url: /task_providing_feedback.html
   - title: Where to get help and find more information

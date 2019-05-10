@@ -24,6 +24,7 @@ NetApp SaaS Backup is a secure, cloud-native service that backs up your Salesfor
 == Managing backups and restores data
 * link:task_managing_backups.html[Backing up data]
 * link:task_managing_restores.html[Restoring data]
+* link:task_reauthenticating.html[Reauthenticating credentials]
 * link:task_moving_org_to_different_tier.html[Moving data to a different backup tier]
 * link:task_viewing_data.html[Viewing data]
 
