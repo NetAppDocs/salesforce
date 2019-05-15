@@ -88,7 +88,7 @@ toc::[]
 . Click the organization.
 . Select the object for which you want to compare backups.
 . Click the compare icon.
-  image:compare_icon.jpg[Compare icon]
+  image:compare_icon.jpg[Screenshot of with compare icon highlighted]
 . Next to *Previous Backup*, select the first date of the backup you want to use for the comparison.
 . Next to *Current Backup*, select the second date of the backup you want to use for the comparison.
 . Click *COMPARE*.
@@ -98,7 +98,8 @@ toc::[]
 . Click *View the Jobs progress*.
 +
 Once the job is complete, it appears under *Recent Completed Jobs*.
-. Click the completed job.
+. Click the compare icon next to the completed job.
+image:compare_icon_isolated.jpg[Compare icon]
 +
 The job status and completion rate are displayed along with the number of records created, updated, and deleted in the object between the two selected backups.  You also have the option to download a CSV or EXCEL file containing the details of the comparison.
 . Click the *Object Name* to view a summary of the compare and tabs containing the full list of records that were *CREATED*, *UPDATED*, or *DELETED*.

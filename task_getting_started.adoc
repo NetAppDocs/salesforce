@@ -19,7 +19,7 @@ To get started with SaaS Backup for Salesforce, you must obtain an activation co
 
 toc::[]
 
-== Signing up for a free trial of SaaS Backup for Salesforce
+== Getting an activation code for a free trial of SaaS Backup for Salesforce
 
 .Steps
 
@@ -29,6 +29,8 @@ toc::[]
 
 == Signing up for SaaS Backup
 You can sign up for SaaS Backup with Salesforce or with your NetApp SSO account.
+
+To complete sign-up process, you must have the activation code supplied when you purchased your SaaS Backup license or the activation code supplied when you signed up for a free-trial version.
 
 === Signing up for SaaS Backup with Salesforce
 

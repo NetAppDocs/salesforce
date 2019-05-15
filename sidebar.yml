@@ -5,6 +5,8 @@ entries:
     url: /concept_overview.html
   - title: Getting Started
     url: /task_getting_started.html
+  - title: Upgrading from a free trial
+    url: /task_upgrading_from_trial.html
   - title: Configuring the Salesforce service
     url: /task_configuring_salesforce_service.html
   - title: Adding a new production or sandbox instance

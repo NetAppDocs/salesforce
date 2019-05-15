@@ -5,7 +5,7 @@ keywords: netapp, saas backup, reauthenticating, reauthentication, tokens, refre
 summary: You can cancel an immediate backup or restore.  You cannot cancel a scheduled backup.
 ---
 
-= Reauthenticating credentials
+= Reauthenticating
 :toc: macro
 :toclevels: 1
 :hardbreaks:
