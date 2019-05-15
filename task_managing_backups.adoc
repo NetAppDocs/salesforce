@@ -48,9 +48,9 @@ Backup policies with an *Active* status are polices to which items have been ass
 
 [options="header" width="90%"]
 |=======
-|Backup policy |Backup frequency |Data retention period |Available to protect
-|Tier 1 |Once every 12 hours |365 days |Production Instance
-|Tier 2 |Once every 18 hours |365 days |Sandbox Instance
-|Tier 3 |Once every 24 hours |365 days |Sandbox Instance
+|Backup policy |Backup frequency |Default data retention period |Available to protect
+|Tier 1 |Once every 12 hours |3 years |Production Instance
+|Tier 2 |Once every 18 hours |2 years |Sandbox Instance
+|Tier 3 |Once every 24 hours |2 years |Sandbox Instance
 |Unprotected |Not backed up |Not backed up |Production and Sandbox Instances
 |=======
