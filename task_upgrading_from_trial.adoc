@@ -25,8 +25,8 @@ toc::[]
 
 . In the top left corner of the dashboard, click image:configure_icon.jpg[Settings Icon].
 . Under *SERVICE SETTINGS*, select *Salesforce*.
-. Click *SUBSCRIPTION DETAILS*.
-. Click *Update*.
-. Select *License*, and then click *Next*.
-. Enter the license information, and then click *Validate Subscription*.
+. Next to *SUBSCRIPTION DETAILS*, click *Update*.
+. Select *NetApp License*.
+. Enter your user name, password, and the serial number for your license.
+. Click *Validate Subscription*.
   A confirmation of your license information is displayed.
