@@ -49,11 +49,14 @@ To complete sign-up process, you must have the activation code supplied when you
 . Complete the registration form and click *Sign Up*.
 . Click *Salesforce*.
 . If you have a trial license, click *Preview*, enter your activation code and click *Next*.
-+ If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
++
+If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
 . Select your backup storage option.
-+ You can to Bring Your Own Storage (BYOS) or you can use SaaS Backup provided storage.  SaaS Backup only supports Amazon S3.
++
+You can to Bring Your Own Storage (BYOS) or you can use SaaS Backup provided storage.  SaaS Backup only supports Amazon S3.
 . If you select SaaS Backup provided storage, select your region.
-+ If you selected a BYOS option, enter the requested information and click *Test Connection*.
++
+If you selected a BYOS option, enter the requested information and click *Test Connection*.
 . Click *Next*.
 . Click *Save*.
 
@@ -73,10 +76,13 @@ To complete sign-up process, you must have the activation code supplied when you
 .	Complete the registration form and click *Sign Up*.
 . Click *Salesforce*.
 . If you have a trial license, click *Preview*, enter your activation code and click *Next*.
-+ If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
++
+If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
 . Select your backup storage option.
-+ You can to Bring Your Own Storage (BYOS) or you can use SaaS Backup provided storage.  SaaS Backup only supports Amazon S3.
++
+You can to Bring Your Own Storage (BYOS) or you can use SaaS Backup provided storage.  SaaS Backup only supports Amazon S3.
 . If you select SaaS Backup provided storage, select your region.
-+ If you selected a BYOS option, enter the requested information and click *Test Connection*.
++
+If you selected a BYOS option, enter the requested information and click *Test Connection*.
 . Click *Next*.
 . Click *Save*.
