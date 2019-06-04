@@ -28,7 +28,6 @@ toc::[]
   If you want to add a Sandbox Instance, click *Sandbox Instances*.
   image:sandbox_instances.jpg[]
 . In the top right corner, click the blue image:bluecircle_icon.jpg[] to add a new instance.
-.	Under *Add an Organization*, select *Production* to add a Production Instance, or select *Sandbox* to add a Sandbox Instance.
-.	Click *Submit*.
+.	Under *Add an Organization*, click *Submit*.
 .	Enter your system administrative credentials to add the instance.
   A production organization is automatically added to the tier 1 backup policy and an immediate backup is scheduled.

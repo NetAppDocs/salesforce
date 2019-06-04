@@ -31,11 +31,12 @@ toc::[]
 . Click the number of *Protected Instances*.
 . Click the name of he organization.
   image:organization.jpg[]
-  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable object are indicated by a grey icon.
+  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable object are indicated by a grey icon.  The red icon represents items objects which failed to be backed up in the current backup, but are recoverable from previous backups. 
 [options="header" width="90%"]
 |=====
 |Recoverable object |image:recoverable_item.jpg[]
 |Nonrecoverable object |image:nonrecoverable_item.jpg[]
+|Deleted object |image:failed_item.jpg[]
 |=====
 [start=5]
 . Click the object containing the individual records you want to restore, then search for the specific record.
