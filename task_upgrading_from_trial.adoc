@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: task_upgrading_from_trial.html
+keywords: netapp, saas backup, salesforce, getting started
+summary: You can upgrade from a free trial to a licensed version of SaaS Backup.
+---
+
+= Upgrading from a free trial
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+To upgrade from a free trial, you must  You can obtain an activation code by signing up for the free trial.
+
+toc::[]
+
+
+
+.Steps
+
+. In the top left corner of the dashboard, click image:configure_icon.jpg[Settings Icon].
+. Under *SERVICE SETTINGS*, select *Salesforce*.
+. Next to *SUBSCRIPTION DETAILS*, click *Update*.
+. Select *NetApp License*.
+. Enter your user name, password, and the serial number for your license.
+. Click *Validate Subscription*.
+  A confirmation of your license information is displayed.

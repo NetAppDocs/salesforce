@@ -1,0 +1,36 @@
+---
+sidebar: sidebar
+permalink: task_moving_org_to_different_tier.html
+keywords: netapp, saas backup, salesforce, moving, organization, different, backup, tier
+summary: After data in your Sandbox or Production Instance is protected, you can choose to at any time to move it to a different backup tier.
+---
+
+= Moving an organization to a different backup tier
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+If add a Sandbox Instance in SaaS Backup for Salesforce, by default, all data in the Sandbox is unprotected until you manually move it to a protected backup tier.  After data in your Sandbox or Production Instance is protected, you can choose at any time to move it to a different backup tier.
+
+toc::[]
+
+.Steps
+
+. From the left-pane navigation, click *Services*
+  image:services.jpg[]
+. If you want to move an organization in your Production Instance, click *Production Instances*.
+  image:production_instances.jpg[]
+  If you want to move an organization in your Sandbox Instance, click *Sandbox Instances*.
+  image:sandbox_instances.jpg[]
+. Select the correct instance category for the organization you want to move.
+  * Click the number above *PROTECTED INSTANCES*, if the organization you want to move is currently protected by a backup policy.
+  * Click the number above *PENDING INSTANCES*, if the backup status of the organization you want to move is pending,
+  * Click the number above *UNPROTECTED INSTANCES*, if the organization you want to move is currently unprotected by a backup policy.
+. Select the new tier.
+  Only tier 2 and tier 3 backups are available for Sandbox Instances.  Sandbox Instances cannot be backed up under the tier 1 policy.  Production Instances can either be in the tier 1 policy or unprotected.  Production Instances cannot be backed up under the tier 2 or tier 3 policies.
+  The organization is moved to the new backup tier.

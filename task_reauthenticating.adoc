@@ -1,0 +1,32 @@
+---
+sidebar: sidebar
+permalink: task_reauthenticating.html
+keywords: netapp, saas backup, reauthenticating, reauthentication, tokens, refresh, expired, access
+summary: You can cancel an immediate backup or restore.  You cannot cancel a scheduled backup.
+---
+
+= Reauthenticating
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+Salesforce allows usage of a maximum of 5 tokens before you must reauthenticate your credentials.  If you attempt to initiate a backup or restore and all your tokens have been used, you receive the following error message: “expired access/refresh token”.  If you receive this message, you must reauthenticate before proceeding.
+
+toc::[]
+
+.Steps
+
+. In the top left corner of the dashboard, click image:configure_icon.jpg[Settings Icon].
+. Under *SERVICE SETTINGS*, select *Salesforce*.
+. Click *GRANT ACCESS PERMISSIONS*.
++
+image:grant_access_permissions.jpg[Grant Access Permissions Icon]
+. Click the *PRODUCTION* or *SANDBOX* tab to select the instance you need to reauthenticate.
+. Click image:re_authenticate.jpg[Reauthentication icon].
++
+You are redirected to *Salesforce* to enter your credentials.  After reauthenticating, you can initiate your backup or restore job.

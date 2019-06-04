@@ -1,0 +1,19 @@
+---
+sidebar: sidebar
+permalink: concept_overview.html
+keywords: overview, concepts, features, use case
+summary: NetApp SaaS Backup for Salesforce is a secure, cloud-native service that backs up your Salesforce data to Amazon S3 storage.  SaaS Backup helps guard your data from threats or accidental deletion.
+---
+
+= NetApp SaaS Backup for Salesforce Overview
+:toc: macro
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+NetApp SaaS Backup for Salesforce is a secure, cloud-native service that backs up your Salesforce data to Amazon S3 storage.  SaaS Backup helps guard your data from threats or accidental deletion.
+
+image:Overview.gif[Graphical overview of SaaS Backup for Salesforce.]
+*NOTE*: When you upgrade from private preview of SaaS Backup for Salesforce to general product availability, your private preview data is not preserved.

@@ -1,0 +1,26 @@
+---
+sidebar: sidebar
+permalink: task_canceling_job.html
+keywords: netapp, saas backup, salesforce, canceling, jobs, backup, restore
+summary: You can cancel an immediate backup or restore.  You cannot cancel a scheduled backup.
+---
+
+= Canceling a job
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can cancel an immediate backup or restore.  You cannot cancel a scheduled backup.
+
+toc::[]
+
+.Steps
+
+. Click *Jobs* on the left navigation pane.
+. Under *Recent Running Jobs*, find the job that you want to cancel.
+. Click *Cancel*.
