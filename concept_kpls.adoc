@@ -17,8 +17,6 @@ summary: You should be aware of certain SaaS Backup known problems and limitatio
 [.lead]
 The following is a list of SaaS Backup for Salesforce known problems and limitations.
 
-toc::[]
-
 == Records missing in backup of some objects (Defect #1169)
 After a full backup or incremental backup of an organization, there might be a small discrepancy in the count for the total number of discovered records versus the count for the total number of downloaded records.  This occurs when specific fields are added to the query and consequently cause the Salesforce API not to return all records.
 
