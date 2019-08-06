@@ -24,8 +24,8 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
 . From the left-pane navigation, click *Services*
   image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
-  image:production_instances.jpg[]
-  image:sandbox_instances.jpg[]
+  image:production_instances.gif[]
+  image:sandbox_instances.gif[]
 . Click the number of *Protected Instances*.
 . Click the name of he organization.
   image:organization.jpg[]
