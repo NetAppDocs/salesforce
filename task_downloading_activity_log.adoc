@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: task_downloading_activity_log.html
+keywords: netapp, saas backup, salesforce, viewing, dowloading, activity, log
+summary: You can download the activity log to a .csv file.
+---
+
+= Downloading the activity log
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can download the activity log to a .csv file.
+
+.Steps
+
+. From the left-pane navigation, click *Reporting*
+  image:reporting.jpg[]
+.	Click *Activity Log*.
+. Click *Download*.
+  image:download.jpg[]
+  The activity log is downloaded as a .csv file.

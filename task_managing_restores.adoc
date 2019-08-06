@@ -17,8 +17,6 @@ summary: You can use SaaS Backup for Salesforce to restore data that you previou
 [.lead]
 You can use SaaS Backup for Salesforce to restore data that you previously backed up.
 
-toc::[]
-
 == Restoring the most recent backup
 
 .Steps
@@ -26,12 +24,12 @@ toc::[]
 . From the left-pane navigation, click *Services*
   image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
-  image:production_instances.jpg[]
-  image:sandbox_instances.jpg[]
+  image:production_instances.gif[]
+  image:sandbox_instances.gif[]
 . Click the number of *Protected Instances*.
 . Click the name of he organization.
   image:organization.jpg[]
-  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable object are indicated by a grey icon.  The red icon represents items objects which failed to be backed up in the current backup, but are recoverable from previous backups. 
+  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable object are indicated by a grey icon.  The red icon represents items objects which failed to be backed up in the current backup, but are recoverable from previous backups.
 [options="header" width="90%"]
 |=====
 |Recoverable object |image:recoverable_item.jpg[]

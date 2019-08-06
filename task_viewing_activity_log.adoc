@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: task_viewing_activity_log.html
+keywords: netapp, saas backup, salesforce, viewing, activity, log
+summary: You can view a list of all activity performed inside of SaaS Backup for Salesforce.
+---
+
+= Viewing the activity log
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can view a list of all activity performed inside of SaaS Backup for Salesforce.
+
+.Steps
+
+. From the left-pane navigation, click *Reporting*
+  image:reporting.jpg[]
+.	Click *Activity Log*.
+.	To filter the results, click *Filter*.
+  image:filter.jpg[]
+.	Select the Filter you would like to use to refine the reporting results.
+  You can filter by service or event.
+  image:activity_log_filter.jpg[]
+.	Click inside the *Search* box and select the specific service or event for which you want to see results.  Add additional filters as needed.
+.	Click *Apply Filter*.
