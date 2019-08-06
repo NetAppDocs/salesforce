@@ -15,11 +15,7 @@ summary: You can upgrade from a free trial to a licensed version of SaaS Backup.
 :imagesdir: ./media/
 
 [.lead]
-To upgrade from a free trial, you must  You can obtain an activation code by signing up for the free trial.
-
-toc::[]
-
-
+To upgrade from a free trial, you must the serial number issued with your paid subscription.
 
 .Steps
 
