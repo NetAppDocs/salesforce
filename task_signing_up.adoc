@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_getting_started.html
+permalink: task_signing_up.html
 keywords: netapp, saas backup, salesforce, getting started, signing up, sso
 summary: Getting started with SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
 ---

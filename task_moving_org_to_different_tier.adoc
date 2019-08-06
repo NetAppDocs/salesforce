@@ -25,10 +25,10 @@ If add a Sandbox Instance in SaaS Backup for Salesforce, by default, all data in
 image:services.jpg[]
 . If you want to move an organization in your Production Instance, click *Production Instances*.
 +
-image:production_instances.jpg[]
+image:production_instances.gif[]
   If you want to move an organization in your Sandbox Instance, click *Sandbox Instances*.
 +
-image:sandbox_instances.jpg[]
+image:sandbox_instances.gif[]
 . Select the correct instance category for the organization you want to move.
   * Click the number above *PROTECTED INSTANCES*, if the organization you want to move is currently protected by a backup policy.
   * Click the number above *PENDING INSTANCES*, if the backup status of the organization you want to move is pending,

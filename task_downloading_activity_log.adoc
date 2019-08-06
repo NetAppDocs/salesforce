@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_downloading_activity.html
+permalink: task_downloading_activity_log.html
 keywords: netapp, saas backup, salesforce, viewing, dowloading, activity, log
 summary: You can download the activity log to a .csv file.
 ---

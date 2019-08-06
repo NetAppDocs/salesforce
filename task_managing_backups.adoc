@@ -17,8 +17,6 @@ summary: You can use SaaS Backup for Salesforce to backup your data.
 [.lead]
 You can use SaaS Backup for Salesforce to backup and restore your data.
 
-toc::[]
-
 == Performing an immediate backup
 You can perform an immediate backup of your production or sandbox instance any time you deem necessary for data protection.
 
