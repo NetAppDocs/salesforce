@@ -3,7 +3,7 @@ entries:
     entries:
     - title: Known problems and limitations
       url: /concept_kpls.html
-  - title: SaaS Backup for Office 365 Overview
+  - title: Overview
     url: /concept_overview.html
   - title: Getting started
     entries:
@@ -16,7 +16,7 @@ entries:
     - title: Adding a new production or sandbox instance
       url: /task_adding_new_instance.html
     - title: Upgrading from a free trial
-      url: /task_upgrading_from_trial.html      
+      url: /task_upgrading_from_trial.html
   - title: Managing SaaS Backup for Salesforce
     entries:
     - title: Moving an organization to a different backup tier
@@ -30,7 +30,13 @@ entries:
     - title: Canceling a job
       url: /task_canceling_job.html
   - title: Viewing data
-    url: /task_viewing_data.html
+    entries:
+    - title: Viewing job history
+      url: /task_viewing_job_history.html
+    - title: Viewing the activity log
+      url: /task_viewing_activity_log.html
+    - title: Downloading the activity log
+      url: /task_downloading_activity_log.html
   - title: Providing feedback
     url: /task_providing_feedback.html
   - title: Where to get help and find more information
