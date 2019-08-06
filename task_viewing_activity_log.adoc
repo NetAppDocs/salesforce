@@ -5,6 +5,7 @@ keywords: netapp, saas backup, salesforce, viewing, activity, log
 summary: You can view a list of all activity performed inside of SaaS Backup for Salesforce.
 ---
 
+= Viewing the activity log
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -13,7 +14,7 @@ summary: You can view a list of all activity performed inside of SaaS Backup for
 :linkattrs:
 :imagesdir: ./media/
 
-== Viewing the activity log
+[.lead]
 You can view a list of all activity performed inside of SaaS Backup for Salesforce.
 
 .Steps

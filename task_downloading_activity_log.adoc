@@ -5,6 +5,7 @@ keywords: netapp, saas backup, salesforce, viewing, dowloading, activity, log
 summary: You can download the activity log to a .csv file.
 ---
 
+= Downloading the activity log
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -13,7 +14,7 @@ summary: You can download the activity log to a .csv file.
 :linkattrs:
 :imagesdir: ./media/
 
-== Downloading the activity log
+[.lead]
 You can download the activity log to a .csv file.
 
 .Steps

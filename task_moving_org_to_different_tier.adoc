@@ -5,7 +5,7 @@ keywords: netapp, saas backup, salesforce, moving, organization, different, back
 summary: After data in your Sandbox or Production Instance is protected, you can choose to at any time to move it to a different backup tier.
 ---
 
-
+= Moving an organization to a different backup tier
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -14,8 +14,7 @@ summary: After data in your Sandbox or Production Instance is protected, you can
 :linkattrs:
 :imagesdir: ./media/
 
-= Moving an organization to a different backup tier
-
+[.lead]
 If add a Sandbox Instance in SaaS Backup for Salesforce, by default, all data in the Sandbox is unprotected until you manually move it to a protected backup tier.  After data in your Sandbox or Production Instance is protected, you can choose at any time to move it to a different backup tier.
 
 .Steps

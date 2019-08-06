@@ -5,6 +5,7 @@ keywords: netapp, saas backup, salesforce, getting started, signing up, sso
 summary: Getting started with SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
 ---
 
+= Signing up for SaaS Backup
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -13,12 +14,12 @@ summary: Getting started with SaaS Backup for Salesforce includes obtaining an a
 :linkattrs:
 :imagesdir: ./media/
 
-== Signing up for SaaS Backup
+[.lead]
 You can sign up for SaaS Backup with Salesforce or with your NetApp SSO account.
 
 To complete sign-up process, you must have the activation code supplied when you purchased your SaaS Backup license or the activation code supplied when you signed up for a free-trial version.
 
-=== Signing up for SaaS Backup with Salesforce
+== Signing up for SaaS Backup with Salesforce
 
 .Steps
 
@@ -48,7 +49,7 @@ If you selected a BYOS option, enter the requested information and click *Test C
 . Click *Next*.
 . Click *Save*.
 
-=== Signing up for SaaS Backup with NetApp SSO
+== Signing up for SaaS Backup with NetApp SSO
 
 .Steps
 
