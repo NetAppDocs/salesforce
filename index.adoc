@@ -28,3 +28,4 @@ NetApp SaaS Backup is a secure, cloud-native service that backs up your Salesfor
 == Provide feedback, get help, or find more information
 * link:task_providing_feedback.html[Providing feedback]
 * link:concept_get_help_find_info.html[Where to get help and find more information]
+* link:https://docs.netapp.com/us-en/saasbackupO365/[Documentation for SaaS Backup for Microsoft Office 365]
