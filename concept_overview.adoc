@@ -18,3 +18,5 @@ NetApp SaaS Backup for Salesforce is a secure, cloud-native service that backs u
 
 image:Overview.gif[Graphical overview of SaaS Backup for Salesforce.]
 *NOTE*: When you upgrade from private preview of SaaS Backup for Salesforce to general product availability, your private preview data is not preserved.
+
+If you are interested in SaaS Backup for Microsoft Office 365, you can find the documentation link:https://docs.netapp.com/us-en/saasbackupO365/[here].
