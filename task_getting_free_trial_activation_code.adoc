@@ -19,7 +19,7 @@ To get started with SaaS Backup for Salesforce, you must obtain an activation co
 
 .Steps
 
-. Click https://www.netapp.com/us/forms/tools/cloud-control-for-microsoft-office-365.aspx[here] to go to the SaaS Backup for Salesforce free-trial URL.
+. Click https://www.netapp.com/us/forms/sales-inquiry/saas-backup-salesforce-free-trial.aspx[here] to go to the SaaS Backup for Salesforce free-trial URL.
 
 . Enter the requested registration information and click *Submit*.
 +
