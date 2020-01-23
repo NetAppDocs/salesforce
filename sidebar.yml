@@ -22,7 +22,7 @@ entries:
         - title: Adding a new production or sandbox instance
           url: /task_adding_new_instance.html
         - title: Performing backup
-          url:   
+          url:
         - title: Upgrading from a free trial
           url: /task_upgrading_from_trial.html
     - title: Getting started with a paid subscription
