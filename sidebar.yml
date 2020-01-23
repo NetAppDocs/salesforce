@@ -28,7 +28,7 @@ entries:
     - title: Getting started with a paid subscription
       entries:
       - title: Workflow
-        url:
+        url: /concept_paid_subscription_workflow.html
       - title: Information to gather about your BYOS option
         url:
       - title: Creating a Salesforce system admin account

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: concept_paid_subscription_workflow.html
+keywords: netapp, saas backup, salesforce, getting, started, workflow, paid, subscription
+summary: To get started with a paid subscription account for SaaS Backup for Salesforce, you must have an activation code and sign up with Salesforce or a NetApp SSO.
+---
+
+= Workflow for getting started with a paid subscription of SaaS Backup for Salesforce
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+To get started with a paid subscription of SaaS Backup for Salesforce, you must do the following:
+
+.Steps
+
+.
