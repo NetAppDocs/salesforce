@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_signing_up_free_developer.html
+keywords: netapp, saas backup, salesforce, getting started, signing up, sso, free, developer, edition, account
+summary: Getting started with SaaS Backup for Salesforce includes signing up for a free developer edition account.
+---
+
+= Signing up for a Salesforce free developer edition account
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+With a free Salesforce developer edition account, you can discover the latest features of Salesforce and SaaS Backup for Salesforce.
+
+.Steps
+
+.

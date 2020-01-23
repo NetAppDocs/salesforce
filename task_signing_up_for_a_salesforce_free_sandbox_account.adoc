@@ -5,7 +5,7 @@ keywords: netapp, saas backup, salesforce, getting started, signing up, sso, fre
 summary: Getting started with SaaS Backup for Salesforce includes signing up for a free sandbox account.
 ---
 
-= Signing up for SaaS Backup
+= Signing up for a Salesforce free sandbox account
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,8 +16,6 @@ summary: Getting started with SaaS Backup for Salesforce includes signing up for
 
 [.lead]
 With a free 30-day trial of Salesforce sandbox account, you can discover the features of sandbox and SaaS Backup for Salesforce.
-
-== Signing up for a Salesforce free sandbox account
 
 .Steps
 

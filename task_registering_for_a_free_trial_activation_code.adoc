@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_registering_activation_code.html
+keywords: netapp, saas backup, salesforce, getting started, registering, free, activation, code
+summary: Getting started with a free trial for SaaS Backup for Salesforce includes registering for a free trial activation code.
+---
+
+= Registering for a free trial activation code
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+To get started with SaaS Backup for Salesforce, you must obtain an activation code and then sign up. You may have received an activation code from your sales representative or channel partner. If not, you can obtain an activation code by signing up for a free trial.
+
+.Steps
+
+.
