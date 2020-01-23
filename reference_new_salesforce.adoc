@@ -1,0 +1,67 @@
+---
+sidebar: sidebar
+permalink: reference_new_saasbackupO365.html
+keywords: what's new, features, new, release notes, enhancements
+summary: SaaS Backup for Office 365 regularly introduces a new release to bring you new features, enhancements, and bug fixes.
+---
+
+= New features and updates
+:toc: macro
+:hardbreaks:
+:toclevels: 2
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The following new features and updates have been added to this release of NetApp SaaS Backup for Office 365.
+
+== January 2020
+* You can now view mailboxes, sites, mysites, groups, or accounts that have been deprovisioned.
+link:task_viewing_deprovisioned.html[Viewing deprovisioned items]
+* User licenses are now automatically release seven days after the accounts are purged. You can view a list of items scheduled to be purged within seven days and list of items that have already been purged.
+link:task_viewing_deprovisioned.html[Viewing a list of purged data]
+* Backup for Microsoft OneNote notebooks is now supported for Microsoft SharePoint Online and OneDrive for Business.
+link:task_enabling_onenote_backups.html[Enabling backups for OneNote]
+
+== September 2019
+* You can now activate support for paid subscriptions of SaaS Backup.
+Activating support enables you to access technical support over the phone, online chat, or web ticketing system.
++
+<<task_activate_support.adoc#activating-support, Activating support>>
+
+== June 2019
+* SaaS Backup for Office 365 now supports the backup and restore of items created using the copy-to feature in Microsoft SharePoint Online and Microsoft OneDrive for Business.
+* Enhancements have been made to include additional details in the restore statistics including restore size, restore location, and additional comments.
+
+== May 2019
+* SaaS Backup now supports add-on licenses.
++
+<<task_activating_an_add_on_license.adoc#activating-an-add-on-license, Activating an add-on license>>
+
+== April 2019
+* SaaS Backup for Office 365 now supports deletion of security groups.
++
+<<task_deleting_security_groups.adoc#deleting-security-groups, Deleting security groups>>
+* Shared mailboxes no longer consume a user license.
+
+== March 2019
+* SaaS Backup for Office 365 now supports multiple backup locations in each supported region.
++
+You can now choose any of the available locations in your selected region as the site for your data backup. Choosing the location that is geographically closest to the location of your data is recommended.  The location recommended by SaaS Backup is marked as *preferred* in the list of options.
++
+*Note*:  If you are upgrading from a trial version and you choose a backup location that is different from the location used in your trial, your trail data is not preserved.
++
+<<task_upgrading_from_trial.adoc#upgrading-from-a-trial-subscription, Upgrading from a trial subscription>>
+
+* You can now release user licenses and make them available for other users.
+  <<task_releasing_a_user_license.adoc#releasing-a-user-license, Releasing a user license>>
+
+== February 2019
+* SaaS Backup for Office 365 now supports the following:
+** Backup and restore of archive mailboxes.
+** Enhanced backup and restore statistics across Microsoft Office Exchange Online, SharePoint, and OneDrive for Business.
+
+== Archived
+Click link:reference_new_archive.html[here] for the archived list of new features

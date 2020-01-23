@@ -1,6 +1,8 @@
 entries:
   - title: Release Notes
     entries:
+    - title: What's new
+      url: /reference_new_salesforce.html
     - title: Known problems and limitations
       url: /concept_kpls.html
   - title: Overview
