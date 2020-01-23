@@ -13,6 +13,8 @@ entries:
       entries:
       - title: Workflow
         url: /concept_free_trial_workflow.html
+      - title: Free trial restrictions
+        url: 
       - title: Getting a free trial activation code
         url: /task_getting_free_trial_activation_code.html
       - title: Signing up for Salesforce

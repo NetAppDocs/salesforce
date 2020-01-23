@@ -1,0 +1,24 @@
+---
+sidebar: sidebar
+permalink: task_signing_up_free_sandbox.html
+keywords: netapp, saas backup, salesforce, getting started, signing up, sso, free, sandbox, account
+summary: Getting started with SaaS Backup for Salesforce includes signing up for a free sandbox account.
+---
+
+= Signing up for SaaS Backup
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+With a free 30-day trial of Salesforce sandbox account, you can discover the features of sandbox and SaaS Backup for Salesforce.
+
+== Signing up for a Salesforce free sandbox account
+
+.Steps
+
+.
