@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_workflow_free_trial.html
+permalink: concept_free_trial_workflow.html
 keywords: netapp, saas backup, salesforce, getting, started, workflow, free, trial
 summary: To get started with a free trial account for SaaS Backup for Office 365, you must have a free trial activation code and sign up with Salesforce or a NetApp SSO.
 ---
