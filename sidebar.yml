@@ -9,16 +9,20 @@ entries:
     url: /concept_overview.html
   - title: Getting started
     entries:
-    - title: Getting a free trial activation code
-      url: /task_getting_free_trial_activation_code.html
-    - title: Signing up for Salesforce
-      url: /task_signing_up.html
-    - title: Configuring the Salesforce service
-      url: /task_configuring_salesforce_service.html
-    - title: Adding a new production or sandbox instance
-      url: /task_adding_new_instance.html
-    - title: Upgrading from a free trial
-      url: /task_upgrading_from_trial.html
+    - title: Getting started with a free trial
+      entries:
+      - title: Workflow
+        url: /task_workflow_free_trial.html
+      - title: Getting a free trial activation code
+        url: /task_getting_free_trial_activation_code.html
+      - title: Signing up for Salesforce
+        url: /task_signing_up.html
+      - title: Configuring the Salesforce service
+        url: /task_configuring_salesforce_service.html
+      - title: Adding a new production or sandbox instance
+        url: /task_adding_new_instance.html
+      - title: Upgrading from a free trial
+        url: /task_upgrading_from_trial.html
   - title: Managing SaaS Backup for Salesforce
     entries:
     - title: Moving an organization to a different backup tier
@@ -27,6 +31,8 @@ entries:
       url: /task_managing_backups.html
     - title: Restoring data
       url: /task_managing_restores.html
+    - title: Comparing and restoring backup differences
+      url: /task_comparing_restoring.html 
     - title: Reauthenticating
       url: /task_reauthenticating.html
     - title: Canceling a job

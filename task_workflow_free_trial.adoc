@@ -1,0 +1,38 @@
+---
+sidebar: sidebar
+permalink: task_workflow_free_trial.html
+keywords: netapp, saas backup, salesforce, getting, started, workflow, free, trial
+summary: Getting started with a free trial subscription for SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
+---
+
+= Getting an activation code for a free trial of SaaS Backup for Salesforce
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+To get started with a free trial of SaaS Backup for Salesforce, you must do the following:
+
+.Steps
+
+. Be aware of the free trial restrictions.
+
+. Have a free trial activation code.
+
+. If needed, sign up for a Salesforce developer edition account.
+
+. If needed, create a Salesforce system admin account.
+
+. Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; then, for BYOS, gather information about your storage.
+
+. Sign up for SaaS Backup for Salesforce using your Salesforce account or your NetApp SSO account.
+
+. Configure Salesforce service.
+
+. Add production / Sandbox instances.
+
+. Backup your data.
