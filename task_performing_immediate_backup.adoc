@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_managing_backups.html
+permalink: task_performing_immediate_backup.html
 keywords: netapp, saas backup, salesforce, managing, backups, immediate, backup, policies
 summary: You can use SaaS Backup for Salesforce to backup your data.
 ---

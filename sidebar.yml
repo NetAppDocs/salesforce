@@ -23,10 +23,10 @@ entries:
         url: /task_signing_up_free_sandbox.html
       - title: Creating a Salesforce system administrator account
         url: /task_creating_system_admin.html
+      - title: Information to gather about your BYOS option
+        url: /task_gather_information_byos.html
       - title: Signing up for free trial of SaaS Backup for Salesforce
         url: /task_signing_up_free_trial.html
-      - title: Information to gather about your BYOS option
-        url: /task_information_to_gather_for_byos.html
       - title: Configuring the Salesforce service
         url: /task_configuring_salesforce_service.html
       - title: Adding a new production or sandbox instance
@@ -42,7 +42,7 @@ entries:
       - title: Workflow
         url: /concept_paid_subscription_workflow.html
       - title: Information to gather about your BYOS option
-        url: /task_information_to_gather_for_byos.html
+        url: /task_gather_information_byos.html
       - title: Creating a Salesforce system administrator account
         url: /task_creating_system_admin.html
       - title: Signing up for a paid subscription of SaaS Backup for Salesforce
