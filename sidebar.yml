@@ -17,6 +17,10 @@ entries:
         url: /reference_free_trial_restrictions.html
       - title: Registering a free trial activation code
         url: /task_registering_free_trial_activation_code.html
+      - title: Signing up for a Salesforce free developer edition account
+        url: /task_signing_up_free_developer.html
+      - title: Signing up for a Salesforce free sandbox account
+        url: /task_signing_up_free_sandbox.html    
       - title: Signing up for free trial of SaaS Backup for Salesforce
         url: /task_signing_up_free_trial.html
       - title: Creating a Salesforce system administrator account
