@@ -19,4 +19,23 @@ With a free 30-day trial of Salesforce sandbox account, you can discover the fea
 
 .Steps
 
-.
+. Go to link:https://www.salesforce.com/form/signup/freetrial-platform/[Salesforce free trial] to start your free Salesforce sandbox account.
+
+. Fill in the requested information, accept the Terms of Use, and click *Sign me up* to complete the sign-up process.
+
+. Go to your email account to confirm and verify your new account.
+The link provided will prompt you to create a password for your account.
++
+. In your newly created Salesforce developer account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*.
+
+. Click on the *setup* tab.
+
+. In the search bar, search for *Users* and select the same from the result.
+The last name on the bottom of the list with a profile as *system administrator* is your email for this account.
++
+. Select this email and *reset the password*.
+This is a required step because the sign-up does not give you the email and password to login.
++
+. After you reset the password, you can use this email and password to login to the sandbox.
+
+Note: Your new account will be prepopulated with sample objects and records.
