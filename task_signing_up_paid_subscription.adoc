@@ -1,4 +1,4 @@
---
+---
 sidebar: sidebar
 permalink: task_signing_up_paid.html
 keywords: netapp, saas backup, salesforce, getting started, signing up, sso, paid, subscription
@@ -37,7 +37,6 @@ image:sign_up_for_salesforce_button.jpg[]
 image:allow_access.jpg[]
 . Complete the registration form and click *Sign Up*.
 . Click *Salesforce*.
-. If you have a trial license, click *Preview*, enter your activation code and click *Next*.
 +
 If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
 . Select your backup storage option.
@@ -66,7 +65,6 @@ image:sign_up_with_netapp_sso.jpg[]
 image:allow_access.jpg[]
 .	Complete the registration form and click *Sign Up*.
 . Click *Salesforce*.
-. If you have a trial license, click *Preview*, enter your activation code and click *Next*.
 +
 If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
 . Select your backup storage option.

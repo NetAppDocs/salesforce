@@ -15,7 +15,7 @@ summary: Getting started with SaaS Backup for Salesforce includes obtaining an a
 :imagesdir: ./media/
 
 [.lead]
-To get started with SaaS Backup for Salesforce, you must obtain an activation code and then sign up.  You may have received an activation code from your sales representative or channel partner.  If not, you can obtain an activation code by signing up for the free trial.
+To get started with SaaS Backup for Salesforce, you must get an activation code and then sign up.  You may have received an activation code from your sales representative or channel partner.  If not, you can get an activation code by signing up for the free trial.
 
 .Steps
 
