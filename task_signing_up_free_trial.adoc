@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
 permalink: task_signing_up.html
-keywords: netapp, saas backup, salesforce, getting started, signing up, sso
-summary: Getting started with SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
+keywords: netapp, saas backup, salesforce, getting started, signing up, free, trial, sso
+summary: Getting started with a free trial of SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
 ---
 
-= Signing up for SaaS Backup
+= Signing up for for a free trial of SaaS Backup for Salesforce
 :toc: macro
 :toclevels: 1
 :hardbreaks:

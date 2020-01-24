@@ -18,15 +18,17 @@ entries:
       - title: Registering a free trial activation code
         url: /task_registering_free_trial_activation_code.html
       - title: Signing up for Salesforce
-        url: /task_signing_up.html
+        url: /task_signing_up_free_trial.html
       - title: Creating a Salesforce system administrator account
         url: /task_creating_system_admin.html
+      - title: Information to gather about your BYOS option
+        url: /task_information_to_gather_for_byos.html
       - title: Configuring the Salesforce service
         url: /task_configuring_salesforce_service.html
         - title: Adding a new production or sandbox instance
           url: /task_adding_new_instance.html
         - title: Performing backup
-          url:
+          url: /task_managing_backups.html
         - title: Upgrading from a free trial
           url: /task_upgrading_from_trial.html
     - title: Getting started with a paid subscription
@@ -34,13 +36,13 @@ entries:
       - title: Workflow
         url: /concept_paid_subscription_workflow.html
       - title: Information to gather about your BYOS option
-        url:
-      - title: Creating a Salesforce system admin account
-        url:
+        url: /task_information_to_gather_for_byos.html
+      - title: Creating a Salesforce system administrator account
+        url: /task_creating_system_admin.html
       - title: Signing up for a paid subscription of SaaS Backup for Salesforce
-        url:
+        url: /task_signing_up_paid.html
       - title: Performing backup
-        url:
+        url: /task_managing_backups.html
   - title: Managing SaaS Backup for Salesforce
     entries:
     - title: Moving an organization to a different backup tier
