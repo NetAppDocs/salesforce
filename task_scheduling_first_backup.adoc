@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: task_moving_org_to_different_tier.html
+permalink: scheduling_first_backup.html
 keywords: netapp, saas backup, salesforce, moving, organization, different, backup, tier
 summary: After data in your Sandbox or Production Instance is protected, you can choose to at any time to move it to a different backup tier.
 ---
 
-= Moving an organization to a different backup tier
+= Scheduling a backup or changing backup frequency
 :toc: macro
 :toclevels: 1
 :hardbreaks:

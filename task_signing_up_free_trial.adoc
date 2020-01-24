@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: task_signing_up.html
+permalink: task_signing_up_free_trial.html
 keywords: netapp, saas backup, salesforce, getting started, signing up, free, trial, sso
 summary: Getting started with a free trial of SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
 ---
