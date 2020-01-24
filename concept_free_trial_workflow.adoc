@@ -29,7 +29,7 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 
 . If you don't already have a link:task_creating_system_admin.html[Salesforce system admin account], create one.
 
-. Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; if needed, for BYOS, link:task_information_to_gather_for_byos.html[gather information about your storage].
+. Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; if needed, for BYOS, link:task_gather_information_byos.html[gather information about your storage].
 
 . Sign up for a link:task_signing_up_free_trial.html[free trial of SaaS Backup for Salesforce] using your Salesforce account or your NetApp SSO account.
 
@@ -40,3 +40,5 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 . link:scheduling_first_backup.html[Schedule your first back up].
 
 . If desired, link:task_performing_immediate_backup.html[backup your data immediately].
+
+image:workflow_free_trial.gif[workflow of free trial sign up process]
