@@ -20,7 +20,7 @@ entries:
       - title: Signing up for a Salesforce free developer edition account
         url: /task_signing_up_free_developer.html
       - title: Signing up for a Salesforce free sandbox account
-        url: /task_signing_up_free_sandbox.html    
+        url: /task_signing_up_free_sandbox.html
       - title: Signing up for free trial of SaaS Backup for Salesforce
         url: /task_signing_up_free_trial.html
       - title: Creating a Salesforce system administrator account
@@ -29,13 +29,12 @@ entries:
         url: /task_information_to_gather_for_byos.html
       - title: Configuring the Salesforce service
         url: /task_configuring_salesforce_service.html
-        entries:
-        - title: Adding a new production or sandbox instance
-          url: /task_adding_new_instance.html
-        - title: Performing backup
-          url: /task_managing_backups.html
-        - title: Upgrading from a free trial
-          url: /task_upgrading_from_trial.html
+      - title: Adding a new production or sandbox instance
+        url: /task_adding_new_instance.html
+      - title: Performing backup
+        url: /task_managing_backups.html
+      - title: Upgrading from a free trial
+        url: /task_upgrading_from_trial.html
     - title: Getting started with a paid subscription
       entries:
       - title: Workflow
