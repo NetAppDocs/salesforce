@@ -25,6 +25,8 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 
 . If needed, sign up for a Salesforce developer edition account.
 
+. If needed, sign up for a Salesforce sandbox account.
+
 . If needed, create a Salesforce system admin account.
 
 . Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; then, for BYOS, gather information about your storage.
@@ -33,6 +35,8 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 
 . Configure Salesforce service.
 
-. Add production / Sandbox instances.
+. Add Production / Sandbox instances.
 
-. Backup your data.
+. Schedule your first back up.
+
+. Backup your data immediately.
