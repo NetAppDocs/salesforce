@@ -5,7 +5,7 @@ keywords: netapp, saas backup, salesforce, managing, restores, comparing, restor
 summary: You can use SaaS Backup for Salesforce to compare and restore data that you previously backed up.
 ---
 
-= Restoring data
+= Comparing and restoring backup differences
 :toc: macro
 :toclevels: 1
 :hardbreaks:
@@ -16,8 +16,6 @@ summary: You can use SaaS Backup for Salesforce to compare and restore data that
 
 [.lead]
 You can use SaaS Backup for Salesforce to compare and restore backup differences.
-
-== Comparing and restoring backup differences
 
 .Steps
 

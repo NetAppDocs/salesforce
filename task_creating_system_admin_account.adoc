@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_creating_system_admin.html
+keywords: netapp, saas backup, salesforce, getting started, signing up, creating, create, system, admin, administrator, account
+summary: Getting started with SaaS Backup for Salesforce includes an option of creating a Salesforce system administrator account.
+---
+
+= Creating a Salesforce system administrator account
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can use your existing Salesforce system admin account while signing up for SaaS Backup for Salesforce. But if you wish to, you can also create a new Salesforce system administrator account for this purpose.
+
+.Steps
+
+.

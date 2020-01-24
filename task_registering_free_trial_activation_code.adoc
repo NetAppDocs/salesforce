@@ -1,11 +1,11 @@
 ---
 sidebar: sidebar
-permalink: task_getting_free_trial_activation_code.html
-keywords: netapp, saas backup, salesforce, getting, started, free, trial, activation, code
+permalink: task_registering_free_trial_activation_code.html
+keywords: netapp, saas backup, salesforce, registering, started, free, trial, activation, code
 summary: Getting started with SaaS Backup for Salesforce includes obtaining an activation code and signing up with Salesforce or a NetApp SSO.
 ---
 
-= Getting an activation code for a free trial of SaaS Backup for Salesforce
+= Registering an activation code for a free trial of SaaS Backup for Salesforce
 :toc: macro
 :toclevels: 1
 :hardbreaks:

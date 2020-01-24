@@ -14,11 +14,13 @@ entries:
       - title: Workflow
         url: /concept_free_trial_workflow.html
       - title: Free trial restrictions
-        url: 
-      - title: Getting a free trial activation code
-        url: /task_getting_free_trial_activation_code.html
+        url: /reference_free_trial_restrictions.html
+      - title: Registering a free trial activation code
+        url: /task_registering_free_trial_activation_code.html
       - title: Signing up for Salesforce
         url: /task_signing_up.html
+      - title: Creating a Salesforce system administrator account
+        url: /task_creating_system_admin.html
       - title: Configuring the Salesforce service
         url: /task_configuring_salesforce_service.html
         - title: Adding a new production or sandbox instance
