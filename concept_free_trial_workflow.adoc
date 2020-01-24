@@ -23,11 +23,11 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 
 . Have a free trial activation code.
 
-. If needed, sign up for a Salesforce developer edition account.
+. If you don't already have a Salesforce developer edition account, sign up for one.
 
-. If needed, sign up for a Salesforce sandbox account.
+. If you don't already have a Salesforce sandbox account, sign up for one.
 
-. If needed, create a Salesforce system admin account.
+. If you don't already have a Salesforce system admin account, create one.
 
 . Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; then, for BYOS, gather information about your storage.
 
