@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task_viewing_job_history.html
 keywords: netapp, saas backup, salesforce, viewing, job, history
-summary: You can view a list of all jobs completed, cancelled, or failed within SaaS Backup for Salesforce.
+summary: You can view a list of all jobs completed, canceled, or failed within SaaS Backup for Salesforce.
 ---
 
 :toc: macro
@@ -14,11 +14,11 @@ summary: You can view a list of all jobs completed, cancelled, or failed within 
 :imagesdir: ./media/
 
 == Viewing job history
-You can view a list of all jobs completed, cancelled, or failed within SaaS Backup for Salesforce.
+You can view a list of all jobs completed, canceled, or failed within SaaS Backup for Salesforce.
 
 .Steps
 
-. From the left-pane navigation, click *Reporting*
+. From the left-pane navigation, click *Reporting*.
   image:reporting.jpg[]
   The job history is displayed.
 . In the top right corner, click *Filter*.

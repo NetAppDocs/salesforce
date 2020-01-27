@@ -19,7 +19,7 @@ You can use SaaS Backup for Salesforce to compare and restore backup differences
 
 .Steps
 
-. From the left-pane navigation, click *Jobs*
+. From the left-pane navigation, click *Jobs*.
   image:jobs.jpg[Jobs Button]
 . Under *Recent Completed Jobs*, select the backup containing the object for which you want to compare backups.
 . Click the organization.

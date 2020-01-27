@@ -38,7 +38,7 @@ image:allow_access.jpg[]
 . Complete the registration form and click *Sign Up*.
 . Click *Salesforce*.
 +
-If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*
+If you have a paid subscription, click *Licensed*.  Enter your user name, password, and the serial number of your license and click *Validate Subscriptions*.
 . Select your backup storage option.
 +
 You can to Bring Your Own Storage (BYOS) or you can use SaaS Backup provided storage.  SaaS Backup only supports Amazon S3.

@@ -15,11 +15,11 @@ summary: After data in your Sandbox or Production Instance is protected, you can
 :imagesdir: ./media/
 
 [.lead]
-If add a Sandbox Instance in SaaS Backup for Salesforce, by default, all data in the Sandbox is unprotected until you manually move it to a protected backup tier.  After data in your Sandbox or Production Instance is protected, you can choose at any time to move it to a different backup tier.
+If you add a Sandbox Instance in SaaS Backup for Salesforce, by default, all data in the Sandbox is unprotected until you manually move it to a protected backup tier.  After data in your Sandbox or Production Instance is protected, you can choose at any time to move it to a different backup tier.
 
 .Steps
 
-. From the left-pane navigation, click *Services*
+. From the left-pane navigation, click *Services*.
 +
 image:services.jpg[]
 . If you want to move an organization in your Production Instance, click *Production Instances*.

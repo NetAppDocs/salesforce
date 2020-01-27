@@ -21,7 +21,7 @@ You can perform an immediate backup of your production or sandbox instance any t
 
 .Steps
 
-. From the left-pane navigation, click *Services*
+. From the left-pane navigation, click *Services*.
   image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
   image:production_instances.gif[]
@@ -30,7 +30,7 @@ You can perform an immediate backup of your production or sandbox instance any t
 .. Click the number above *PROTECTED INSTANCES*, if the instance you want to back up is currently protected by a backup policy.
 .. Click the number above *PENDING INSTANCES*, if the backup status of the instance you want to back up is pending,
 .. Click the number above *UNPROTECTED INSTANCES*, if the instance you want to backup is currently unprotected by a backup policy.
-. Click the name of he organization.
+. Click the name of the organization.
   image:organization.jpg[]
 . Click *Backup Now*.
   A message appears indicating the selected organizations are being placed in the backup queue.
