@@ -23,9 +23,9 @@ To get started with a free trial of SaaS Backup for Salesforce, you must do the 
 
 . Register for a link:task_registering_free_trial_activation_code.html[free trial activation code].
 
-. If you don't already have a link:task_signing_up_free_developer.html[Salesforce developer edition account], sign up for one.
+. If needed, sign up for a link:task_signing_up_free_developer.html[Salesforce developer edition account].
 
-. If you don't already have a link:task_signing_up_free_sandbox.html[Salesforce sandbox account], sign up for one.
+. If needed, sign up for a link:task_signing_up_free_sandbox.html[Salesforce sandbox account].
 
 . If you don't already have a link:task_creating_system_admin.html[Salesforce system admin account], create one.
 
