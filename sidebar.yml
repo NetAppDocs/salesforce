@@ -71,6 +71,8 @@ entries:
       url: /task_viewing_activity_log.html
     - title: Downloading the activity log
       url: /task_downloading_activity_log.html
+    - title: Downloading export data
+      url: /task_downloading_export_data.html
   - title: Providing feedback
     url: /task_providing_feedback.html
   - title: Where to get help and find more information

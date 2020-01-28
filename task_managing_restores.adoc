@@ -45,6 +45,8 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
    This option replaces the existing version of the record you are restoring.  If you want to keep the current version of the record and the restored version of the record, deselect this option.
 .. *Restore relationship* restores the children of parent records along with the parent up to five levels.  If you do not select to restore relationship, only the parent record is restored.
 .. *Export Data* allows you to export data from a backup at a specific point in time. You can export data at the object level or at the organization level. For more information about the export to data feature, go to link:task_downloading_export_data.adoc[Downloading export data].
+Note: Export jobs are only available for seven days after completion. 
++
 .	Click *Submit*.
   image:submit.jpg[]
 
