@@ -27,8 +27,11 @@ You can use your existing Salesforce system admin account or you can create a ne
 
 . To search for users, choose one of the following:
 .. Under *Administer*, click *Manage Users* and then click *Users*.
+link:search_administer_manager_users.gif[Image shows search for users under Administer]
++
 .. Search for users in search bar, then click *Users*.
-
+link:search_quick_find_users.gif[Image shows search for users using Quick Find]
++
 . Click *New User*.
 
 . Fill in the requested information with the following guidance:
