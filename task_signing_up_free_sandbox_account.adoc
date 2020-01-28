@@ -30,7 +30,7 @@ The link provided will prompt you to create a password for your account.
 
 . Click on the *setup* tab.
 
-. In the search bar, search for *Users* and select the same from the result.
+. In the search bar, search for *Users* and select *Users*.
 The last name on the bottom of the list with a profile as *system administrator* is your email for this account.
 +
 . Select this email and *reset the password*.
