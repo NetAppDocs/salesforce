@@ -1,0 +1,22 @@
+---
+sidebar: sidebar
+permalink: task_downloading_export_data.html
+keywords: netapp, saas backup, salesforce, viewing, downloading, export, data
+summary: You can download attachments, results, and statistics using the export to data feature.
+---
+
+= Downloading export data
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can export data at an object and organization level. For each export, you can download attachments, results, and statistics from a previous backup.
+
+.Steps
+
+. 
