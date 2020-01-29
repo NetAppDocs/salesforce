@@ -21,16 +21,16 @@ You can use your existing Salesforce system admin account or you can create a ne
 
 . Log in to your link:https://www.salesforce.com/[Salesforce] with your existing system admin account.
 
-. In your account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*.
+. In your account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*. This is optional.
 
 . Click on the *setup* tab.
 
 . To search for users, choose one of the following:
 .. Under *Administer*, click *Manage Users* and then click *Users*.
-link:search_administer_manager_users.gif[Image shows search for users under Administer]
+   image:search_administer_manager_users.gif[Image shows search for users under Administer]
 +
 .. Search for users in search bar, then click *Users*.
-link:search_quick_find_users.gif[Image shows search for users using Quick Find]
+  image:search_quick_find_users.gif[Image shows search for users using Quick Find]
 +
 . Click *New User*.
 
@@ -43,6 +43,6 @@ link:search_quick_find_users.gif[Image shows search for users using Quick Find]
 . In *Users*, select the newly created account and click *Reset Password*.
 
 . Go to your email account to confirm and verify your new account.
-The link provided will prompt you to create a password for your account.
+  The link provided will prompt you to create a password for your account.
 
 . Log in to link:https://www.salesforce.com/[Salesforce] using your new account credentials to activate the account.
