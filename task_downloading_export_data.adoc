@@ -58,8 +58,10 @@ If restore partially fails (orange) or fails (red), ...
   image:production_instances.gif[Image shows production instances box]
   image:sandbox_instances.gif[Image shows sandbox instances box]
 . Click the number of *Protected Instances*.
-. Select the tier.
+. Select the *Tier*.
+  image:tier_selection.gif[Image shows tier drop-down]
 . Click *Restore* and then *Export Data* option.
+  image:restore_export_data.gif[Image shows restore drop-down with export option]
 . If needed, include *Restore Files/Attachments* in your export.
 . Click *Submit*.
 . Click *Jobs* from the left-pane navigation to view your restore job.
