@@ -29,22 +29,22 @@ You can export data at the object and organization level. For each export, you c
 . Click the name of the organization.
   image:organization.jpg[Image shows where to click on organization name]
 . Click on the objects you want to export and click *Restore*.
-link:restore.gif[Image shows restore button]
-Note: If you export an object without relationships, the job will export/download only the selected object. If you export an object with relationships, the job will export/download the selected object and all its relationship objects.
+  image:restore.gif[Image shows restore button]
+  Note: If you export an object without relationships, the job will export/download only the selected object. If you export an object with relationships, the job will export/download the selected object and all its relationship objects.
 +
 . Click *Jobs* from the left-pane navigation to view your restore job.
 . Click on *Total objects* or *Successful* to see the job details and the download options.
 If restore is successful (green), you have three download options.
 +
-.. For results, click link:export_data_download_link.gif[Image shows export data download link button].
+.. For results, click image:export_data_download_link.gif[Image shows export data download link button].
 ... In your finder, you will find the downloaded .tar.gz file.
 ... Unzip the file to get a .tar file.
 ... Extract the .tar file to see attachments.
-.. For attachments, click link:attachments_download_link.gif[Image shows attachments download link].
+.. For attachments, click image:attachments_download_link.gif[Image shows attachments download link].
 ... In your finder, you will find the downloaded .tar.gz file.
 ... Unzip the file to get a .tar file.
 ... Extract the .tar file to see the EXCEL results.
-.. For a statistics report, click link:download.gif[Image shows download link].
+.. For a statistics report, click image:download.gif[Image shows download link].
 If restore partially fails (orange) or fails (red), ...
 +
 
