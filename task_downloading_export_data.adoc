@@ -35,15 +35,15 @@ You can export data at the object and organization level. For each export, you c
 +
 . Click *Jobs* from the left-pane navigation to view your restore job.
 . Click on *Total Objects* or *Successful* to see the job details and the download options.
-  After your export job is complete, you will receive an email notification with job status and links to download files/attachments if previously selected.
-  If you included files/attachments in your export, then you will have three download options. If you did not include files/attachments, you will only see image:download.gif[Image shows download link] option.
+  After your export job is complete, you can check your email for an email notification with job status and links to download files/attachments if previously selected.
+  If you included files/attachments in your export, then three download options are available. If you did not include files/attachments, the image:download.gif[Image shows download link] option is the only option.
 
 .. For results, click image:export_data_download_link.gif[Image shows export data download link button].
-... In your finder, you will find the downloaded .tar.gz file.
+... In your finder, locate the downloaded .tar.gz file.
 ... Unzip the file to get a .tar file.
 ... Extract the .tar file to see attachments.
 .. For attachments, click image:attachments_download_link.gif[Image shows attachments download link].
-... In your finder, you will find the downloaded .tar.gz file.
+... In your finder, locate the downloaded .tar.gz file.
 ... Unzip the file to get a .tar file.
 ... Extract the .tar file to see the EXCEL results.
 .. For a statistics report, click image:download.gif[Image shows download link].
@@ -65,15 +65,15 @@ You can export data at the object and organization level. For each export, you c
 . Click *Submit*.
 . Click *Jobs* from the left-pane navigation to view your restore job.
 . Click on *Total Organizations* or *Successful* to see the job details and the download options.
-  After your export job is complete, you will receive an email notification with job status and links to download files/attachments if previously selected.
-  If you included files/attachments in your export, then you will have three download options. If you did not include files/attachments, you will only see image:download.gif[Image shows download link] option.
+  After your export job is complete, you can check your email for an email notification with job status and links to download files/attachments if previously selected.
+  If you included files/attachments in your export, then three download options are available. If you did not include files/attachments, the image:download.gif[Image shows download link] option is the only option.
 
   .. For results, click image:export_data_download_link.gif[Image shows export data download link button].
-  ... In your finder, you will find the downloaded .tar.gz file.
+  ... In your finder, locate the downloaded .tar.gz file.
   ... Unzip the file to get a .tar file.
   ... Extract the .tar file to see attachments.
   .. For attachments, click image:attachments_download_link.gif[Image shows attachments download link].
-  ... In your finder, you will find the downloaded .tar.gz file.
+  ... In your finder, locate the downloaded .tar.gz file.
   ... Unzip the file to get a .tar file.
   ... Extract the .tar file to see the EXCEL results.
   .. For a statistics report, click image:download.gif[Image shows download link].
