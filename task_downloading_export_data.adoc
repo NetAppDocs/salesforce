@@ -34,7 +34,7 @@ You can export data at the object and organization level. For each export, you c
   Note: If you export an object without relationships, the job will export/download only the selected object. If you export an object with relationships, the job will export/download the selected object and all its relationship objects.
 +
 . Click *Jobs* from the left-pane navigation to view your restore job.
-. Click on *Total objects* or *Successful* to see the job details and the download options.
+. Click on *Total Objects* or *Successful* to see the job details and the download options.
 If restore is successful (green), you have three download options.
 +
 .. For results, click image:export_data_download_link.gif[Image shows export data download link button].
@@ -46,9 +46,8 @@ If restore is successful (green), you have three download options.
 ... Unzip the file to get a .tar file.
 ... Extract the .tar file to see the EXCEL results.
 .. For a statistics report, click image:download.gif[Image shows download link].
-If restore partially fails (orange) or fails (red), ...
-+
 
+If restore partially fails (orange) or fails (red), ...
 
 == Organization-level export
 .Steps
@@ -58,3 +57,11 @@ If restore partially fails (orange) or fails (red), ...
 . Click *Production Instances* or *Sandbox Instances*.
   image:production_instances.gif[Image shows production instances box]
   image:sandbox_instances.gif[Image shows sandbox instances box]
+. Click the number of *Protected Instances*.
+. Select the tier.
+. Click *Restore* and then *Export Data* option.
+. If needed, include *Restore Files/Attachments* in your export.
+. Click *Submit*.
+. Click *Jobs* from the left-pane navigation to view your restore job.
+. Click on *Total Organizations* or *Successful* to see the job details and the download options.
+. After your export job is complete, you will receive an email notification with job status and links to download files/attachments if previously selected.
