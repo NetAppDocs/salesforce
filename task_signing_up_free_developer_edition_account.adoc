@@ -19,7 +19,7 @@ With a free Salesforce developer edition account, you can discover the latest fe
 
 .Steps
 
-. Go to link:https://developer.salesforce.com/signup[Lightning Platform for developers] to start your free Salesforce developer edition account.
+. Click link:https://developer.salesforce.com/signup[here] to start your free Salesforce developer edition account.
 
 . Fill in the requested information, accept the Terms of Use, and click *Sign me up* to complete the sign-up process.
 
