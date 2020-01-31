@@ -15,33 +15,23 @@ summary: Getting started with SaaS Backup for Salesforce includes an option of c
 :imagesdir: ./media/
 
 [.lead]
-You can use your existing Salesforce system admin account or you can create a new Salesforce system administrator account when signing up for SaaS Backup for Salesforce.
+You can use your existing Salesforce system admin account or you can create a new Salesforce system administrator account when signing up for SaaS Backup for Salesforce. If you choose to use your existing account, skip the steps below.
 
 .Steps
 
 . Log in to your link:https://www.salesforce.com/[Salesforce] with your existing system admin account.
-
 . In your account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*. This is optional.
-
 . Click on the *setup* tab.
-
-. To search for users, choose one of the following:
-.. Under *Administer*, click *Manage Users* and then click *Users*.
+. To search for users, go to *Administer*, click *Manage Users* and then click *Users*.
   image:search_administer_manage_users.gif[Image shows search for users under Administer]
-.. Search for users in search bar, then click *Users*.
-  image:search_quick_find_users.gif[Image shows search for users using Quick Find]
-+
-. Click *New User*.
-
+. Under *Users*, Click *New User*.
 . Fill in the requested information with the following guidance:
 .. Keep the *Role* empty.
 .. Under *User license*, choose *Salesforce*.
 .. Under *Profile*, choose *System Administrator*.
 .. Check all of the following: Marketing, Offline, Service Cloud, and Salesforce CRM content users.
-
-. In *Users*, select the newly created account and click *Reset Password*.
-
+. Click *Save*.
+. In *Users*, click on your newly created account and click *Reset Password*.
 . Go to your email account to confirm and verify your new account.
   The link provided will prompt you to create a password for your account.
-
 . Log in to link:https://www.salesforce.com/[Salesforce] using your new account credentials to activate the account.
