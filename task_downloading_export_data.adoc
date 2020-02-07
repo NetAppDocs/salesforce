@@ -58,6 +58,7 @@ You can export data at the object and organization level. For each export, you c
   image:production_instances.gif[Image shows production instances box]
   image:sandbox_instances.gif[Image shows sandbox instances box]
 . Click the number of *Protected Instances*.
+  image:protected_instances_screenshot.gif[Image shows protected instances]
 . Select the *Tier*.
   image:tier_selection.gif[Image shows tier drop-down]
 . Click *Restore* and then *Export Data* option.
