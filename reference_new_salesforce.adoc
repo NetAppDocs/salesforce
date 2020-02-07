@@ -19,5 +19,5 @@ The following new features and updates have been added to this release of NetApp
 
 == January 2020
 
-* You can export data at the object and organization level. For each export, you can download attachments, results, and statistics from a previous backup.
+* You can now export data at the object and organization level. For each export, you can download attachments, results, and statistics from a previous backup.
 link:task_downloading_export_data.html[Downloading export data]
