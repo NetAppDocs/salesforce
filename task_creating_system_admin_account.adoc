@@ -24,12 +24,12 @@ When you sign up for SaaS Backup for Salesforce, you can use your existing Sales
 . Click on the *Setup* tab.
 . Under *Administer*, click *Manage Users* and then click *Users*.
   image:search_administer_manage_users.gif[Image shows search for users under Administer]
-. Under *Users*, Click *New User*.
+. Under *Users*, click *New User*.
 . Fill in the requested information with the following guidance:
 .. Keep the *Role* empty.
 .. Under *User license*, choose *Salesforce*.
 .. Under *Profile*, choose *System Administrator*.
-.. Check the following: 
+.. Check the following:
 * Marketing
 * Offline
 * Service Cloud

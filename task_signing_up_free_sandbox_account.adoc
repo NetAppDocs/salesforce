@@ -15,7 +15,7 @@ summary: Getting started with SaaS Backup for Salesforce includes signing up for
 :imagesdir: ./media/
 
 [.lead]
-With a free 30-day trial of Salesforce sandbox account, you can use the sandbox and SaaS Backup for Salesforce.
+A Salesforce sandbox account allows you to test the functionality of SaaS Backup for Salesforce in a test environment before implementing it with your production account.
 
 .Steps
 
