@@ -29,15 +29,14 @@ You can export data at the object and organization level. For each export, you c
   image:protected_instances_screenshot.gif[Image shows protected instances]
 . Click the name of the organization.
   image:organization.jpg[Image shows where to click on organization name]
-. Click on the objects you want to export and click *Restore*.
+. Select the objects you want to export and click *Restore*.
   image:restore.jpg[Image shows restore button]
 . If needed, include *Restore Relationships* or *Restore Files/Attachments* in your export.
-  Note: If you export an object without relationships, the job will export/download only the selected object. If you export an object with relationships, the job will export/download the selected object and all its relationship objects.
+  Note: If you do not select *Restore Relationships*, then the job exports only the selected objects. If you select *Restore Relationships*, then the job exports the selected object and all its relationship objects.
 +
 . Click *Jobs* from the left-pane navigation to view your restore job.
-. Click on *Total Objects* or *Successful* to see the job details and the download options.
-. After your export job is complete, you can check your email for an email notification with job status and links to download files/attachments if previously selected.
-  If you did not include files/attachments, the image:download.gif[Image shows download link] and image:export_data_download_link.gif[Image shows export data download link] options are available. If you included files/attachments in your export, then three download options are available.
+. Click on *Total Objects* or *Successful* to see the job details and the download options. Alternatively, you can find links to download files/attachments in your email.
+  If you did not include files/attachments, the image:download.gif[Image shows download link] and image:export_data_download_link.gif[Image shows export data download link] options are available. If you included files/attachments in your export, then three download options are available:
 
 .. For results, click image:export_data_download_link.gif[Image shows export data download link button].
 ... In your finder, locate the downloaded .tar.gz file.
@@ -63,12 +62,11 @@ You can export data at the object and organization level. For each export, you c
   image:tier_selection.gif[Image shows tier drop-down]
 . Click *Restore* and then *Export Data* option.
   image:restore_export_data.gif[Image shows restore drop-down with export option]
-. If needed, include *Restore Files/Attachments* in your export.
+. If needed, click *Restore Files/Attachments* to include them in your export.
 . Click *Submit*.
 . Click *Jobs* from the left-pane navigation to view your restore job.
-. Click on *Total Organizations* or *Successful* to see the job details and the download options.
-. After your export job is complete, you can check your email for an email notification with job status and links to download files/attachments if previously selected.
-  If you did not include files/attachments, the image:download.gif[Image shows download link] and image:export_data_download_link.gif[Image shows export data download link] options are available. If you included files/attachments in your export, then three download options are available.
+. Click on *Total Organizations* or *Successful* to see the job details and the download options. Alternatively, you can find links to download files/attachments in your email.
+  If you did not include files/attachments, the image:download.gif[Image shows download link] and image:export_data_download_link.gif[Image shows export data download link] options are available. If you included files/attachments in your export, then three download options are available:
 
   .. For results, click image:export_data_download_link.gif[Image shows export data download link button].
   ... In your finder, locate the downloaded .tar.gz file.
