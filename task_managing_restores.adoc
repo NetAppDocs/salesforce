@@ -21,20 +21,20 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
 
 .Steps
 
-. From the left-pane navigation, click *Services*
+. From the left-pane navigation, click *Services*.
   image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
   image:production_instances.gif[]
   image:sandbox_instances.gif[]
 . Click the number of *Protected Instances*.
-. Click the name of he organization.
+. Click the name of the organization.
   image:organization.jpg[]
-  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable object are indicated by a grey icon.  The red icon represents items objects which failed to be backed up in the current backup, but are recoverable from previous backups.
+  A list of objects is displayed.  Recoverable objects are shown by default.  To view the Nonrecoverable objects select, “Include Non-recoverable objects."  Nonrecoverable objects are indicated by a grey icon.  The red icon represents items objects which failed to be backed up in the current backup, but are recoverable from previous backups.
 [options="header" width="90%"]
 |=====
 |Recoverable object |image:recoverable_item.jpg[]
 |Nonrecoverable object |image:nonrecoverable_item.jpg[]
-|Deleted object |image:failed_item.jpg[]
+|Failed object |image:failed_item.jpg[]
 |=====
 [start=5]
 . Click the object containing the individual records you want to restore, then search for the specific record.
@@ -44,28 +44,31 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
 .. *Restore with overwrite* is selected by default.
    This option replaces the existing version of the record you are restoring.  If you want to keep the current version of the record and the restored version of the record, deselect this option.
 .. *Restore relationship* restores the children of parent records along with the parent up to five levels.  If you do not select to restore relationship, only the parent record is restored.
+.. *Export Data* allows you to export data from a backup at a specific point in time. You can export data at the object level or at the organization level. For more information about the export to data feature, go to link:task_downloading_export_data.html[Downloading export data].
+Note: Export jobs are only available for seven days after completion.
++
 .	Click *Submit*.
   image:submit.jpg[]
 
-== Restoring from a previous backups
+== Restoring from a previous backup
 
 .Steps
 
-. From the left-pane navigation, click *Services*
+. From the left-pane navigation, click *Services*.
   image:services.jpg[]
 . Click *Production Instances* or *Sandbox Instances*.
   image:production_instances.jpg[]
   image:sandbox_instances.jpg[]
 . Click the number of *Protected Instances*.
-. Click the name of he organization.
+. Click the name of the organization.
   image:organization.jpg[]
 .	Click *View Backup History*.
 .	Select to see backups for a specific range of time or to select a backup for a specific date.
-..	To select backups for a specific range of time, in the top right corner, click the dropdown menu next to *Show Selected Backups*, and select one of the predefined range of days.
+..	To select backups for a specific range of time, in the top right corner, click the drop-down menu next to *Show Selected Backups*, and select one of the predefined range of days.
     image:show_selected_backups.jpg[]
     A list of backups that occurred during the selected range is displayed.
 .. To select a backup for a specific date, click the date of the backup on the calendar, then select the specific backup you want.
-   The number in the red circle indicates the number of backups performed on that date.  The individual green circles indicate the individual backups
+   The number in the red circle indicates the number of backups performed on that date.  The individual green circles indicate the individual backups.
 .	Click the object containing the individual records that you want to restore, then search for the specific record.
 .	Click *Restore*.
   image:restore.jpg[]
@@ -73,40 +76,8 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
 ..	*Restore with overwrite* is selected by default.
      This option replaces the existing version of the record you are restoring.  If you want to keep the current version of the record and the restored version of the record, deselect this option.
 ..	*Restore relationship* restores the children of parent records along with the parent up to five levels.  If you do not select to restore relationship, only the parent record is restored.
+.. *Export Data* allows you to export data from a backup at a specific point in time. You can export data at the object level or at the organization level. For more information about the export to data feature, go to link:task_downloading_export_data.html[Downloading export data].
+Note: Export jobs are only available for seven days after completion.
 .	Click *Submit*.
   image:submit.jpg[]
   A message appears indicating the selected organizations are being placed in the jobs queue.
-
-== Comparing and restoring backup differences
-
-.Steps
-
-. From the left-pane navigation, click *Jobs*
-  image:jobs.jpg[Jobs Button]
-. Under *Recent Completed Jobs*, select the backup containing the object for which you want to compare backups.
-. Click the organization.
-. Select the object for which you want to compare backups.
-. Click the compare icon.
-  image:compare_icon.jpg[Screenshot of with compare icon highlighted]
-. Next to *Previous Backup*, select the first date of the backup you want to use for the comparison.
-. Next to *Current Backup*, select the second date of the backup you want to use for the comparison.
-. Click *COMPARE*.
-  image:compare.jpg[Compare button]
-+
-*NOTE*: If there are no differences between the two selected backups, the compare job is not created.
-. Click *View the Jobs progress*.
-+
-Once the job is complete, it appears under *Recent Completed Jobs*.
-. Click the compare icon next to the completed job.
-image:compare_icon_isolated.jpg[Compare icon]
-+
-The job status and completion rate are displayed along with the number of records created, updated, and deleted in the object between the two selected backups.  You also have the option to download a CSV or EXCEL file containing the details of the comparison.
-. Click the *Object Name* to view a summary of the compare and tabs containing the full list of records that were *CREATED*, *UPDATED*, or *DELETED*.
-. Click *RESTORE*
-+
-image:restore.jpg[Restore Button]
-. Select *UPDATED* to restore all the updated records.  Select *DELETED* to restore all the deleted records.
-. Click *SUMBIT*.
-+
-image:submit.jpg[Submit Button]
-The job is restored without overwrite and without relationship.

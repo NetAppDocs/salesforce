@@ -10,7 +10,7 @@ summary: Welcome to the documentation portal for NetApp SaaS Backup for Salesfor
 :icons: font
 :linkattrs:
 :imagesdir: ./media/
-:keywords: ontap cloud, amazon web services, saas backup, salesforce, saas restore, documentation, help
+:keywords: ontap cloud, amazon web services, saas backup, salesforce, saas restore, documentation, help, sign up
 
 NetApp SaaS Backup is a secure, cloud-native service that backs up your Salesforce data to Amazon S3 storage.  SaaS Backup helps guard your data from threats or accidental deletion.
 

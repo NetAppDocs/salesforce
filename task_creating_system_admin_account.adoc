@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: task_creating_system_admin.html
+keywords: netapp, saas backup, salesforce, getting started, signing up, creating, create, system, admin, administrator, account
+summary: Getting started with SaaS Backup for Salesforce includes an option of creating a Salesforce system administrator account.
+---
+
+= Creating a Salesforce system administrator account
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+When you sign up for SaaS Backup for Salesforce, you can use your existing Salesforce system administrator account, or you can create a new one.
+
+.Steps
+
+. Log in to link:https://www.salesforce.com/[Salesforce] with your existing system admin account.
+. To switch to the classic experience, click on *View Profile*, then click *switch to Salesforce classic*. This is optional.
+. Click on the *Setup* tab.
+. Under *Administer*, click *Manage Users* and then click *Users*.
+  image:search_administer_manage_users.gif[Image shows search for users under Administer]
+. Under *Users*, click *New User*.
+. Fill in the requested information with the following guidance:
+.. Keep the *Role* empty.
+.. Under *User license*, choose *Salesforce*.
+.. Under *Profile*, choose *System Administrator*.
+.. Check the following:
+* Marketing
+* Offline
+* Service Cloud
+* Salesforce CRM content users.
++
+. Click *Save*.
+. In *Users*, click on your newly created account and click *Reset Password*.
+. Go to your email account to confirm and verify your new account.
+  The link provided will prompt you to create a password for your account.
+. Log in to link:https://www.salesforce.com/[Salesforce] using your new account credentials to activate the account.

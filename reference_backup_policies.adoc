@@ -1,0 +1,29 @@
+---
+sidebar: sidebar
+permalink: reference_backup_policies.html
+keywords: netapp, saas backup, salesforce, managing, backups, backup, policies, tier, tiers
+summary: You can use SaaS Backup for Salesforce to backup your data.
+---
+
+= Backup policies
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+SaaS Backup for Salesforce has three predefined tiers of backup policies.  These policy tiers vary in backup frequency and data retention period.  Production Instances can only be protected by the tier 1 policy.  Sandbox Instances can be protected by the tier 2 and tier 3 policies.
+
+Backup policies with an *Active* status are polices to which items have been assigned for backup.  Backup polices with an *Inactive* status do not have items assigned for backup.
+
+[options="header" width="90%"]
+|=======
+|Backup policy |Backup frequency |Default data retention period |Available to protect
+|Tier 1 |Once every 12 hours |3 years |Production Instance
+|Tier 2 |Once every 18 hours |2 years |Sandbox Instance
+|Tier 3 |Once every 24 hours |2 years |Sandbox Instance
+|Unprotected |Not backed up |Not backed up |Production and Sandbox Instances
+|=======

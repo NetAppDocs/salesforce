@@ -19,7 +19,7 @@ You can view a list of all activity performed inside of SaaS Backup for Salesfor
 
 .Steps
 
-. From the left-pane navigation, click *Reporting*
+. From the left-pane navigation, click *Reporting*.
   image:reporting.jpg[]
 .	Click *Activity Log*.
 .	To filter the results, click *Filter*.

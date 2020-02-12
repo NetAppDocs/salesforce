@@ -1,0 +1,31 @@
+---
+sidebar: sidebar
+permalink: task_signing_up_free_developer.html
+keywords: netapp, saas backup, salesforce, getting started, signing up, sso, free, developer, edition, account
+summary: Getting started with SaaS Backup for Salesforce includes signing up for a free developer edition account.
+---
+
+= Signing up for a Salesforce free developer edition account
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+With a free Salesforce developer edition account, you can discover the latest features of Salesforce and SaaS Backup for Salesforce.
+
+.Steps
+
+. Click link:https://developer.salesforce.com/signup[here] to start your free Salesforce developer edition account.
+
+. Fill in the requested information, accept the Terms of Use, and click *Sign me up* to complete the sign-up process.
+
+. Go to your email account to confirm and verify your new account.
+The link provided will prompt you to create a password for your account.
++
+. In your newly created Salesforce developer account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*. This is optional.
++
+Note: Your new account will be prepopulated with sample objects and records.

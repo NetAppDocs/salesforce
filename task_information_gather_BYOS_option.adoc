@@ -1,0 +1,23 @@
+---
+sidebar: sidebar
+permalink: task_gather_information_byos.html
+keywords: netapp, saas backup, salesforce, getting started, BYOS, bring, your, own, storage, information, gather, needed, setup
+summary: If you choose a BYOS option to store your data, you must gather pertinent information about your storage before signing up.
+---
+
+= Information to gather about your Bring Your Own Storage (BYOS) option
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+If you choose to use Amazon S3, you do not need to gather any information before signing up.  If you are providing your own Amazon S3 bucket, you must gather the following information about your storage before signing up.
+
+  * Bucket name
+  * Region
+  * Access key
+  * Secret key

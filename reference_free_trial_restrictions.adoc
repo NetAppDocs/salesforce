@@ -1,0 +1,28 @@
+---
+sidebar: sidebar
+permalink: reference_free_trial_restrictions.html
+keywords: netapp, saas backup, salesforce, free, trial, restrictions, instance, backups
+summary: Getting started with a free trial of SaaS Backup for Salesforce includes restrictions.
+---
+
+= Free trial restrictions
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+The following restrictions apply to free trial accounts:
+
+* A maximum of one production instance.
++
+* A maximum of one sandbox instance.
++
+* A maximum of three immediate backups per day.
++
+* Automated backups for only the first 30 days.
++
+* No scheduled backups are allowed during the 15-day grace period after the free trial ends. 
