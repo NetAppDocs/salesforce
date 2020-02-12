@@ -21,7 +21,7 @@ After signing up for SaaS Backup for Salesforce, you must configure the Salesfor
 
 . From the left-pane navigation, click *Services*
   image:services.jpg[]
-. Click the image:bluecircle_icon.jpg[] to add the service.
+. Click image:bluecircle_icon.jpg[] to add the service.
 . Select *Salesforce*.
   image:salesforce_icon.jpg[]
 . Select the subscription type.

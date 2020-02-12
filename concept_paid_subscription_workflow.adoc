@@ -21,9 +21,9 @@ To get started with a paid subscription of SaaS Backup for Salesforce, you must 
 
 . Have an activation code.
 
-. If you don't already have a link:task_creating_system_admin.html[Salesforce system admin account], create one.
-
 . Decide if you will use Amazon S3 storage provided by SaaS Backup or if you will use a Bring Your Own Storage (BYOS) option; if needed, for BYOS, link:task_gather_information_byos.html[gather information about your storage].
+
+. If you don't already have a link:task_creating_system_admin.html[Salesforce system admin account], create one.
 
 . Sign up for a link:task_signing_up_paid.html[paid subscription of SaaS Backup for Salesforce] using your Salesforce account or your NetApp SSO account.
 

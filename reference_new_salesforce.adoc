@@ -17,7 +17,7 @@ summary: SaaS Backup for Salesforce regularly introduces a new release to bring 
 [.lead]
 The following new features and updates have been added to this release of NetApp SaaS Backup for Salesforce.
 
-== January 2020
+== February 2020
 
 * You can now export data at the object and organization level. For each export, you can download attachments, results, and statistics from a previous backup.
 link:task_downloading_export_data.html[Downloading export data]

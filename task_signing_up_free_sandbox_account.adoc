@@ -15,7 +15,7 @@ summary: Getting started with SaaS Backup for Salesforce includes signing up for
 :imagesdir: ./media/
 
 [.lead]
-With a free 30-day trial of Salesforce sandbox account, you can discover the features of sandbox and SaaS Backup for Salesforce.
+With a free 30-day trial of Salesforce sandbox account, you can use the sandbox and SaaS Backup for Salesforce.
 
 .Steps
 
@@ -23,14 +23,14 @@ With a free 30-day trial of Salesforce sandbox account, you can discover the fea
 
 . Fill in the requested information, accept the Terms of Use, and click *Sign me up* to complete the sign-up process.
 
-. Go to your email account to confirm and verify your new account.
+. Go to your email account to confirm and verify your new sandbox account.
   The link provided will prompt you to create a password for your account.
 +
 . In your newly created Salesforce sandbox account, you can move between the Lightning experience and the classic experience. To switch to the classic experience, click on the *View Profile*, then click on *switch to Salesforce classic*. This is optional.
 
-. Click on the *setup* tab.
+. Click on the *Setup* tab.
 
-. In the search bar, search and select *Users*.
+. In the search bar, search *Users* and select *Users*.
   The name for the user profile *system administrator* is your email for this account.
 +
 . Select this email and *reset the password*.
