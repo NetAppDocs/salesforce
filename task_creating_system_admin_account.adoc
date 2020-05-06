@@ -30,10 +30,10 @@ When you sign up for SaaS Backup for Salesforce, you can use your existing Sales
 .. Under *User license*, choose *Salesforce*.
 .. Under *Profile*, choose *System Administrator*.
 .. Check the following:
-    image:check_mark.gif[Image shows check box checked] Marketing
-    image:check_mark.gif[Image shows check box checked] Offline
-    image:check_mark.gif[Image shows check box checked] Service Cloud
-    image:check_mark.gif[Image shows check box checked] Salesforce CRM content users.
+  image:check_mark.gif[Image shows check box checked] Marketing
+  image:check_mark.gif[Image shows check box checked] Offline
+  image:check_mark.gif[Image shows check box checked] Service Cloud
+  image:check_mark.gif[Image shows check box checked] Salesforce CRM content users.
 +
 . Click *Save*.
 . In *Users*, click on your newly created account and click *Reset Password*.
