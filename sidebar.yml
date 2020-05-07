@@ -1,6 +1,7 @@
 entries:
   - title: NetApp SaaS Backup for Salesforce docs
     url: /index.html
+  - title: Release notes
     entries:
     - title: What's new
       url: /reference_new_salesforce.html
