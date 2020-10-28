@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar
 permalink: task_managing_restores.html
-keywords: netapp, saas backup, salesforce, managing, restores, restoring, recent, previous, backup, compare, comparison
+keywords: netapp, saas backup, salesforce, managing, data, metadata, restore, restores, restoring, recent, previous, backup, compare, comparison
 summary: You can use SaaS Backup for Salesforce to restore data that you previously backed up.
 ---
 
@@ -15,7 +15,7 @@ summary: You can use SaaS Backup for Salesforce to restore data that you previou
 :imagesdir: ./media/
 
 [.lead]
-You can use SaaS Backup for Salesforce to restore data that you previously backed up.
+You can use SaaS Backup for Salesforce to restore data and metadata that you previously backed up.
 
 == Restoring the most recent backup
 
@@ -45,8 +45,9 @@ You can use SaaS Backup for Salesforce to restore data that you previously backe
    This option replaces the existing version of the record you are restoring.  If you want to keep the current version of the record and the restored version of the record, deselect this option.
 .. *Restore relationship* restores the children of parent records along with the parent up to five levels.  If you do not select to restore relationship, only the parent record is restored.
 .. *Export Data* allows you to export data from a backup at a specific point in time. You can export data at the object level or at the organization level. For more information about the export to data feature, go to link:task_downloading_export_data.html[Downloading export data].
-Note: Export jobs are only available for seven days after completion.
 +
+NOTE: Export jobs are only available for seven days after completion.
+
 .	Click *Submit*.
   image:submit.jpg[]
 
@@ -77,7 +78,41 @@ Note: Export jobs are only available for seven days after completion.
      This option replaces the existing version of the record you are restoring.  If you want to keep the current version of the record and the restored version of the record, deselect this option.
 ..	*Restore relationship* restores the children of parent records along with the parent up to five levels.  If you do not select to restore relationship, only the parent record is restored.
 .. *Export Data* allows you to export data from a backup at a specific point in time. You can export data at the object level or at the organization level. For more information about the export to data feature, go to link:task_downloading_export_data.html[Downloading export data].
-Note: Export jobs are only available for seven days after completion.
++
+NOTE: Export jobs are only available for seven days after completion.
+
 .	Click *Submit*.
   image:submit.jpg[]
   A message appears indicating the selected organizations are being placed in the jobs queue.
+
+== Restoring metadata
+You can restore metadata at the organization level or at the granular level.
+
+=== Organization-level metadata restores
+
+.Steps
+. Go to *Services*.
+. Select *Production Instances* or *Sandbox Instances*.
+. Click the number of *Protected* instances.
+. Click the name of the organization.
+. Click *Restore*.
+. Select *Export Metadata*.
+A zip file is created.
++
+NOTE: Export metadata jobs are available for 30 days after completion.
+
+=== Granular-level metadata restores
+
+.Steps
+. Go to *Services*.
+. Select *Production Instances* or *Sandbox Instances*.
+. Click the number of *Protected* instances.
+. Click the name of the organization.
+. Click the tab *Metadata Types & Components*.
+  A list of metadata types is displayed.
+. Select the metadata types you want to restore.
+. Click *Restore*.
+. Select *Export Metadata*.
+A zip file is created.
++
+NOTE: Export metadata jobs are available for 30 days after completion.

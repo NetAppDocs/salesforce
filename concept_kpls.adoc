@@ -17,6 +17,14 @@ summary: You should be aware of certain SaaS Backup known problems and limitatio
 [.lead]
 The following is a list of SaaS Backup for Salesforce known problems and limitations.
 
+== Restore issues for History, Feed, and Share objects
+* Feed and History objects are unable to be restored due to Salesforce limitations.
+*	Only created Share object records can be restored using the *Compare* feature.
+
+== Export issues for History, Feed, and Share objects
+* Export of History, Feed, and Share Objects with relationships does not work.
+* Organization-level export results do not contain History and Feed objects.
+
 == Records missing in backup of some objects (Defect #1169)
 After a full backup or incremental backup of an organization, there might be a small discrepancy in the count for the total number of discovered records versus the count for the total number of downloaded records.  This occurs when specific fields are added to the query and consequently cause the Salesforce API not to return all records.
 
@@ -25,6 +33,11 @@ SaaS Backup does not support restore of records that were backed up prior to a s
 
 == Objects excluded from backups
 SaaS backup for Salesforce does not back up the following objects:
+
+* Deleted Share objects due to a limitation in Salesforce.
+* Deleted History objects due to a limitation in Salesforce.
++
+NOTE: Backups for deleted History objects, such as account record history, only work if the parent record is deleted.
 
 * Objects which cannot be queried using Salesforce APIs
 * Objects which do not support generic queries

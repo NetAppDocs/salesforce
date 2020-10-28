@@ -1,0 +1,33 @@
+---
+sidebar: sidebar
+permalink: task_including_objects_for_backups.html
+keywords: netapp, saas backup, salesforce, including, include, excluded, exclude, objects, objects list, history, share, feed
+summary: By default, Feed, History, and Share objects are excluded from organization-level backups. You can include any or all of these objects in organization-level backups.
+---
+
+= Including Feed, History, and Share objects for backups
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+By default, Feed, History, and Share objects are excluded from organization-level backups. You can include any or all of these objects in organization-level backups by moving the objects from the *Excluded Object List* to the *Include Object List*.
+
+NOTE: Feed and History objects are unable to be restored due to Salesforce limitations.
+
+.Steps
+. Click image:icon_gear.gif[gear icon] and select *Salesforce* under *Services Settings*.
++
+image:select_salesforce_settings.gif[salesforce settings].
+. Go to *Org-Level Backup Settings*.
+. Select the *Service Type* and
+. Search and select production instances by organization.
+. In the *Update Backup Settings* box, highlight the objects you want to include in organization-level backups.
++
+To move a single object, click image:single_forward_arrow.gif[single arrow].
+To move all objects, click image:double_forward_arrow.gif[double arrow].
+. Click *Submit*.

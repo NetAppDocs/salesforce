@@ -17,6 +17,25 @@ summary: SaaS Backup for Salesforce regularly introduces a new release to bring 
 [.lead]
 The following new features and updates have been added to this release of NetApp SaaS Backup for Salesforce.
 
+== October 2020
+
+* SaaS Backup for Salesforce now backs up metadata. This feature enhancement includes backups, object and organization level restores, and purges for the metadata you create. The UI also has a new tab *Metadata Types and Components* where you can see your metadata backups. These pages provide more information for this new feature:
++
+link:task_enable_disable_metadata_backups.html[Enabling and disabling metadata]
+link:task_managing_restores.html[Managing restores]
+* You can now include or exclude the following objects in your backups:
+** Feed
+** History
+** Share
++
+link:including_objects_for_backup.html[Including Feed, History, and Share objects for backup]
++
+See link:concept_kpls.html[Known problems and limitations] for more information.
+
+* Now you can purge your data. This feature is available for new registered users starting from October 2020.
++
+link:purging_data_&_metadata.html[Purging data and metadata]
+
 == February 2020
 
 You can now export data at the object and organization level. For each export, you can download attachments, results, and statistics from a previous backup.

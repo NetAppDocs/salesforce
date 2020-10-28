@@ -1,0 +1,40 @@
+---
+sidebar: sidebar
+permalink: task_enable_disable_metadata_backups.html
+keywords: netapp, saas backup, salesforce, enable, enabling, disable, disabling, backup, backups, metadata, metadata backups
+summary: You can enable or disable metadata backups for Salesforce.
+---
+
+= Enabling and disabling metadata backups
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can enable or disable metadata backups for Salesforce.
+
+== Enabling metadata backups
+Enabling metadata backups provides metadata backups for all organizations within a tenant account.
+
+.Steps
+. Click image:icon_gear.gif[gear icon] and select *Salesforce* under *Services Settings*.
++
+image:select_salesforce_settings.gif[salesforce settings]
+. Click *Enable Metadata Backup* to turn the feature on.
+After enabled at the tenant level, metadata for all the organizations will be backed up.
+
+== Disabling metadata backups
+You can disable metadata backups at the organization level. After metadata backups are enabled for all organizations, this allows you to control which organizations will not have metadata backups.
+
+.Steps
+. To disable metadata backups, go to *Services*.
+. Select *Production Instances* or *Sandbox Instances*.
+. Select the number of *Protected* instances.
+. Select the organization for which you want to disable metadata backups.
+. Click on *Metadata Backup* to turn the feature off.
++
+image:disable_metadata_backup.gif[disable metadata backup]
