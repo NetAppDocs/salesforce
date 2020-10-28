@@ -43,8 +43,9 @@ A window appears showing you the job status.
 image:compare_job_results_window_arrow.gif[compare jobs results window]
 . Click on the object name to see the results.
 The compare job summary is displayed along with the number of records created, updated, and deleted in the object between the two selected backups.
-* To download the compare job details, click image:download_compare_results.gif[icon for download compare results].
-* Unzip the file to see the results.
+You have the option to download the compare job details.
+.. To download the compare job details, click image:download_compare_results.gif[icon for download compare results].
+.. Unzip the file to see the results.
 . Click *RESTORE*.
 . Select *UPDATED* to restore all the updated records. Select *DELETED* to restore all the deleted records. You can also select both if the options is available.
 . Click *SUMBIT*.

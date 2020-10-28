@@ -28,7 +28,7 @@ link:task_managing_restores.html[Managing restores]
 ** History
 ** Share
 +
-link:including_objects_for_backup.html[Including Feed, History, and Share objects for backup]
+link:task_including_objects_for_backups.html[Including Feed, History, and Share objects for backup]
 +
 See link:concept_kpls.html[Known problems and limitations] for more information.
 
