@@ -46,7 +46,6 @@ NOTE: Backups for deleted History objects, such as account record history, only 
 == Features not supported in private preview
 The following features are not supported in the private preview version of SaaS Backup for Salesforce.
 
-* Salesforce metadata
 * Salesforce chatter
 * The following relationship types
 ** N:1 to N:N relationships

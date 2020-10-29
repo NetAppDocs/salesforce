@@ -32,7 +32,7 @@ link:task_including_objects_for_backups.html[Including Feed, History, and Share 
 +
 See link:concept_kpls.html[Known problems and limitations] for more information.
 
-* Now you can purge your data. This feature is available for new registered users starting from October 2020.
+* Starting in October 2020, you can purge your data. Metadata is automatically purged after 90 days. 
 +
 link:purging_data_&_metadata.html[Purging data and metadata]
 
