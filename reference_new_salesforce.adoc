@@ -22,7 +22,7 @@ The following new features and updates have been added to this release of NetApp
 * SaaS Backup for Salesforce now backs up metadata. This feature enhancement includes backups, object and organization level restores, and purges for the metadata you create. The UI also has a new tab *Metadata Types and Components* where you can see your metadata backups. These pages provide more information for this new feature:
 +
 link:task_enable_disable_metadata_backups.html[Enabling and disabling metadata]
-link:task_managing_restores.html[Managing restores]
+link:task_managing_restores.html[Restoring data]
 
 * Starting in October 2020, you can purge your data. Metadata is automatically purged after 90 days.
 +
