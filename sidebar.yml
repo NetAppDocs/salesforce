@@ -59,8 +59,6 @@ entries:
       url: /task_performing_immediate_backup.html
     - title: Enabling and disabling metadata backups
       url: /task_enable_disable_metadata_backups.html
-    - title: Including objects for backups
-      url: /task_including_objects_for_backups.html
     - title: Restoring data
       url: /task_managing_restores.html
     - title: Comparing and restoring backup differences
