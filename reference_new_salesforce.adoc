@@ -23,16 +23,8 @@ The following new features and updates have been added to this release of NetApp
 +
 link:task_enable_disable_metadata_backups.html[Enabling and disabling metadata]
 link:task_managing_restores.html[Managing restores]
-* You can now include or exclude the following objects in your backups:
-** Feed
-** History
-** Share
-+
-link:task_including_objects_for_backups.html[Including Feed, History, and Share objects for backup]
-+
-See link:concept_kpls.html[Known problems and limitations] for more information.
 
-* Starting in October 2020, you can purge your data. Metadata is automatically purged after 90 days. 
+* Starting in October 2020, you can purge your data. Metadata is automatically purged after 90 days.
 +
 link:purging_data_&_metadata.html[Purging data and metadata]
 

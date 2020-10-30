@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar
 permalink: task_purging_data_&_metadata.html
-keywords: netapp, saas backup, salesforce, purge, purging, purging data, metadata, retention, metadata retention, retain and purge, show purged list
-summary: You can purge data from Salesforce organizations. 
+keywords: netapp, saas backup, salesforce, sandbox, production, instance, purge, purging, purging data, metadata, retention, metadata retention, retain and purge, show purged list
+summary: You can purge data from Salesforce organizations.
 ---
 
 = Purging data and metadata
@@ -22,9 +22,9 @@ Metadata retention and purges are automatically managed by SaaS Backup for Sales
 == Purging Data
 You always have the option to purge data from a specific organization such as an unused Salesforce organization.
 
-You can purge data to refresh from production to sandbox instances.
+You can purge data to refresh production or sandbox instances.
 
-You may also want to add another sandbox. To do so, you must purge another sandbox instance.
+You may also want to add another production or sandbox instance. To do so, you must purge a production or sandbox instance.
 
 .Steps
 . Click image:icon_gear.gif[gear icon] and then click image:account_settings.gif[account settings].
