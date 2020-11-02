@@ -38,4 +38,4 @@ A Salesforce sandbox account allows you to test the functionality of SaaS Backup
 +
 . After you reset the password, you can use this email and password to login to the sandbox.
 
-Note: Your new account will be prepopulated with sample objects and records.
+NOTE: Your new account will be prepopulated with sample objects and records.

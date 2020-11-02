@@ -21,7 +21,7 @@ toc::[]
 
 .Steps
 
-. From the left-pane navigation, click *Services*
+. From the left-pane navigation, click *Services*.
   image:services.jpg[]
 . If you want to add a Production Instance, click *Production Instances*.
   image:production_instances.gif[]

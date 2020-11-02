@@ -32,8 +32,9 @@ You can export data at the object and organization level. For each export, you c
 . Select the objects you want to export and click *Restore*.
   image:restore.jpg[Image shows restore button]
 . If needed, select *Restore Relationships* or *Restore Files/Attachments* to include them in your export.
-  Note: If you select *Restore Relationships*, then the job exports the selected object and all its relationship objects. If you do not select *Restore Relationships*, then the job exports only the selected objects.
 +
+NOTE: If you select *Restore Relationships*, then the job exports the selected object and all its relationship objects. If you do not select *Restore Relationships*, then the job exports only the selected objects.
+
 . Click *Submit*.
 . Click *Jobs* from the left-pane navigation to view your restore job.
 . Click on *Total Objects* or *Successful* to see the job details and the download options.

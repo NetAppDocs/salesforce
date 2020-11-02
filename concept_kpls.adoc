@@ -33,7 +33,6 @@ SaaS backup for Salesforce does not back up the following objects:
 == Features not supported in private preview
 The following features are not supported in the private preview version of SaaS Backup for Salesforce.
 
-* Salesforce metadata
 * Salesforce chatter
 * The following relationship types
 ** N:1 to N:N relationships

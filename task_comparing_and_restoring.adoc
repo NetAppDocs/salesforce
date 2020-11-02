@@ -31,20 +31,23 @@ You can use SaaS Backup for Salesforce to compare and restore backup differences
 . Click *COMPARE*.
   image:compare.jpg[Compare button]
 +
-*NOTE*: If there are no differences between the two selected backups, the compare job is not created.
+NOTE: If there are no differences between the two selected backups, the compare job is not created.
+
 . Click *View the Jobs progress*.
 +
 Once the job is complete, it appears under *Recent Completed Jobs*.
-. Click the compare icon next to the completed job.
-image:compare_icon_isolated.jpg[Compare icon]
+. Click either the number of organizations or number successful.
+image:completed_compare_job_click_arrow.gif[Completed compare job where to click for results]
 +
-The job status and completion rate are displayed along with the number of records created, updated, and deleted in the object between the two selected backups.  You also have the option to download a CSV or EXCEL file containing the details of the comparison.
-. Click the *Object Name* to view a summary of the compare and tabs containing the full list of records that were *CREATED*, *UPDATED*, or *DELETED*.
-. Click *RESTORE*
-+
-image:restore.jpg[Restore Button]
-. Select *UPDATED* to restore all the updated records.  Select *DELETED* to restore all the deleted records.
+A window appears showing you the job status.
+image:compare_job_results_window_arrow.gif[compare jobs results window]
+. Click on the object name to see the results.
+The compare job summary is displayed along with the number of records created, updated, and deleted in the object between the two selected backups.
+You have the option to download the compare job details.
+.. To download the compare job details, click image:download_compare_results.gif[icon for download compare results].
+.. Unzip the file to see the results.
+. Click *RESTORE*.
+. Select *UPDATED* to restore all the updated records. Select *DELETED* to restore all the deleted records. You can also select both if the options is available.
 . Click *SUMBIT*.
 +
-image:submit.jpg[Submit Button]
 The job is restored without overwrite and without relationship.
