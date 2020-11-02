@@ -26,7 +26,7 @@ link:task_managing_restores.html[Restoring data]
 
 * Starting in October 2020, you can purge your data. Metadata is automatically purged after 90 days.
 +
-link:purging_data_&_metadata.html[Purging data and metadata]
+link:task_purging_data_&_metadata.html[Purging data and metadata]
 
 == February 2020
 
