@@ -1,0 +1,33 @@
+---
+sidebar: sidebar
+permalink: task_viewing_backup_records.html
+keywords: netapp, saas backup, salesforce, viewing, backup, records, count, summary
+summary: In SaaS Backup for Salesforce, you can check the number of your backup records in SaaS Backup for Salesforce.
+
+---
+
+= Viewing backup records
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+You can check the number of your backup records in SaaS Backup for Salesforce.
+
+The first full backup provides the total number of backup records at the organization level. After this first backup, you can view the total number of created, updated, and deleted records from the *Backup summary*.
+
+.Steps
+. From the dashboard, click the number of protected instances (production or sandbox).
+. Click *view* under *Backup Summary*.
++
+image:click_view_backup_summary.png[view backup summary]
+. View the number of created and deleted records and the record count of all record changes in the table.
++
+image:record_count.png[Backup record count]
+
+* *Object name* - Includes all objects in the organization.
+*	*Created* - All created and updated objects.
+*	*Deleted* - All deleted objects.
+*	*Record count* - The total number of backup changes for an object.

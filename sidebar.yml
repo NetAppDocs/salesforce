@@ -79,6 +79,8 @@ entries:
       url: /task_downloading_activity_log.html
     - title: Downloading export data
       url: /task_downloading_export_data.html
+    - title: Viewing backup records
+      url: /task_viewing_backup_records.html
   - title: Providing feedback
     url: /task_providing_feedback.html
   - title: Where to get help and find more information
