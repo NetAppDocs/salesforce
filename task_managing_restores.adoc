@@ -82,7 +82,6 @@ NOTE: Export jobs are only available for seven days after completion.
 NOTE: Export jobs are only available for seven days after completion.
 
 .	Click *Submit*.
-  image:submit.jpg[]
   A message appears indicating the selected organizations are being placed in the jobs queue.
 
 == Restoring metadata
@@ -96,10 +95,15 @@ You can restore metadata at the organization level or at the granular level.
 . Click the number of *Protected* instances.
 . Click the name of the organization.
 . Click *Restore*.
-. Select *Export Metadata*.
+. Select a restore option.
+.. To export your metadata, select *Export Metadata*.
 A zip file is created.
 +
 NOTE: Export metadata jobs are available for 30 days after completion.
+
++
+.. To restore your metadata, select *Restore Metadata*.
+. Click *Submit*.
 
 === Granular-level metadata restores
 
@@ -112,7 +116,15 @@ NOTE: Export metadata jobs are available for 30 days after completion.
   A list of metadata types is displayed.
 . Select the metadata types you want to restore.
 . Click *Restore*.
-. Select *Export Metadata*.
+. Select a restore option.
++
+image:restore_options_export&restore_metadata.png[export and restore metadata restore options]
++
+.. To export your metadata, select *Export Metadata*.
 A zip file is created.
 +
 NOTE: Export metadata jobs are available for 30 days after completion.
+
++
+.. To restore your metadata, select *Restore Metadata*.
+. Click *Submit*.
