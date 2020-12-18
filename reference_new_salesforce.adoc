@@ -22,7 +22,7 @@ The following new features and updates have been added to this release of NetApp
 +
 Organization-level metadata restore
 +
-image:org_level_restore_metadata_option.png[Organization level metadata restore option]
+image:org_level_restore_metadata_option_cropped.png[Organization level metadata restore option cropped]
 +
 Granular-level metadata restore
 +
