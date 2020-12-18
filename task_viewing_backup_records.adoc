@@ -28,6 +28,6 @@ image:click_view_backup_summary.png[view backup summary]
 image:record_count.png[Backup record count]
 
 * *Object name* - Includes all objects in the organization.
-*	*Created* - All created and updated objects.
-*	*Deleted* - All deleted objects.
+*	*Created* - All created and updated records.
+*	*Deleted* - All deleted records.
 *	*Record count* - The total number of backup changes for an object.

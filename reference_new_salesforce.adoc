@@ -18,8 +18,20 @@ summary: SaaS Backup for Salesforce regularly introduces a new release to bring 
 The following new features and updates have been added to this release of NetApp SaaS Backup for Salesforce.
 
 == December 2020
-The *Backup summary* is a feature enhancement in SaaS Backup for Salesforce which gives you the total number of all your created, updated, and deleted records. It allows you to check that the number of your backup records matches that of your Salesforce account.
+* SaaS Backup for Salesforce now restores metadata. This feature enhancement includes organization-level restores and granular-level single or multiple item restores for your metadata.
++
+Organization-level metadata restore
++
+image:org_level_restore_metadata_option.png[Organization level metadata restore option]
++
+Granular-level metadata restore
++
+image:restore_options_export&restore_metadata.png[export and restore metadata options]
++
+link:task_managing_restores.html[Restoring data]
 
+* The *Backup summary* is a feature enhancement in SaaS Backup for Salesforce which gives you the total number of all your created, updated, and deleted records. It allows you to check that the number of your backup records matches that of your Salesforce account.
++
 link:task_viewing_backup_records.html[Viewing backup records]
 
 == October 2020
